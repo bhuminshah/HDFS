@@ -1,14 +1,23 @@
 # bshah40
 This is a repo for ITM student work
 
-<h1>Bhumin Shah
+# Bhumin Shah
 
-![My image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/myself.png)
-![Image describing me](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/sachin.jpg)
+![My image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/myself.png "Myself")
+![Image describing me](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/sachin.jpg "Sachin")
 
-<h1>I am from Mumbai, India 
-<h1>Earned a Bachelors degree in the Computer Engineering from NMIMS university, India
-<h1>Love the field of technology coz there is always something new to learn
-<h1>Git Tutorial
+# Where are you from?
+
+I am from Mumbai, India 
+
+# IT Background 
+
+Earned a Bachelors degree in the Computer Engineering from NMIMS university, India
+
+# Something interesting about you
+
+Love the field of technology coz there is always something new to learn
+
+# Git Tutorial
 
 ![Git Tutorial](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/git.png)
