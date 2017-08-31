@@ -4,7 +4,7 @@ This is a repo for ITM student work
 # Bhumin Shah
 
 ![My image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/myself.png "Myself")
-![Image describing me](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/sachin.jpg "Sachin")
+![Image describing me](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-01/images/family.jpg "Family")
 
 # Where are you from?
 
