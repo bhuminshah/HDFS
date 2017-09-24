@@ -1,5 +1,5 @@
 
-#Steps
+# Steps
 Run script 'program.sh' from the code folder to:
 - Install MySQL-server
 - Create database and tables
@@ -10,10 +10,11 @@ Execute the following java code to find maximum temperature:
 - javac MaxTemp9293.java
 - java MaxTemp9293
 
-#End result
+# End result
 ![Result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-04/images/result.png)
 
-#In case of script failure run individual scripts:
-install_sql.sh
-db_table.sh
-parse.sh
+# In case of script failure run individual scripts:
+
+- install_sql.sh
+- db_table.sh
+- parse.sh
