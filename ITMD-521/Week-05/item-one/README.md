@@ -1,6 +1,6 @@
 # Assumptions
-    - input directory to run a job is in bshah40/ncdc/input/all-sample.txt
-    - Output directory to check the job run is bshah40/week05/output/10/
+    - input hadoop directory to run a job is  bshah40/ncdc/input/all-sample.txt
+    - Output hadoop directory of the job is bshah40/week05/output/10/
     
 # Steps
     - Compile the java files using following commands
