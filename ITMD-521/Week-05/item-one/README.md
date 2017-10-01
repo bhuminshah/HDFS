@@ -18,5 +18,6 @@
         $ hadoop fs -cat bshah40/week05/output/10/part-r-00000
         
 # Result
+
 - Displaying year and the highest visibility each year
 ![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-05/item-one/1.png)
