@@ -3,6 +3,8 @@
 # Assumptions
     - input hadoop directory to run a job is  bshah40/ncdc/input/all-sample.txt
     - Output hadoop directory of the job is bshah40/week05/output/381/
+    - Job run on data set of 1990-sample, 1991-sample, 1992-sample and 1993-sample
+    
     
 # Steps
     - Compile the java files using following commands
@@ -17,5 +19,5 @@
         $ hadoop fs -cat bshah40/week05/output/381/part-r-00000
         
 # Result
-
+- Result is displaying Station id with percentage of invalid data
 ![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-05/item-three/1.png)
