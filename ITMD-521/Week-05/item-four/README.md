@@ -3,7 +3,7 @@
 # Assumptions
     - input hadoop directory to run a job is  bshah40/ncdc/input/9093-sample.txt
     - Output hadoop directory of the job is bshah40/week05/output/401/
-    - Job run on data set of 1990-sample and 1993-sample
+    - Job run on data set of 1990-sample and 1993-sample combine
     
     
 # Steps
@@ -19,8 +19,9 @@
         $ hadoop fs -cat bshah40/week05/output/401/part-r-00000
         
 # Result
-- Result is displaying Maximum temperature per 10 degree
+    Result is displaying Maximum temperature per 10 degree of latitute
 ![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-05/item-four/1.png)
 
 # Explaination
--
+    - Output shown is Latitude on the left increases by 10 to get maximum Temperature
+    - Temperature need to be multiplied by 10 to get in Celcius degree
