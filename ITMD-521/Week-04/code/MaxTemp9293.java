@@ -52,4 +52,3 @@ public class MaxTemp9293 {
         }
 
 }
-
