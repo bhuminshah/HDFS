@@ -1,6 +1,6 @@
 #!/bin/sh
 # connectivity
- mysql -u root  -proot  << eof
+ mysql -u root  -pitmd521  << eof
 create database if not exists temp;
 use  temp;
 CREATE TABLE IF NOT EXISTS 9091_sample_txt (
