@@ -19,7 +19,7 @@ public class MaxTemp9293 {
 
                 try {
                         Class.forName("com.mysql.jdbc.Driver");
-                        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/temp?autoReconnect=true&useSSL=false", "root", "root");
+                        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/temp?autoReconnect=true&useSSL=false", "root", "itmd521");
                         // here sonoo is database name, root is username and password
                         Statement stmt = con.createStatement();
                         ResultSet rs = stmt.executeQuery("select * from 9293_sample_txt");
