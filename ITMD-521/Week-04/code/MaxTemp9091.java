@@ -1,1 +1,56 @@
-import java.sql.Connection;import java.sql.DriverManager;import java.sql.ResultSet;import java.sql.SQLException;import java.sql.Statement;import java.sql.*;public class MaxTemp9091 {Ê Ê Ê Ê Connection myConnection;Ê Ê Ê Ê public static void main(String args[]) {Ê Ê Ê Ê Ê Ê Ê Ê int count = 0;Ê Ê Ê Ê Ê Ê Ê Ê int max1 = 0;Ê Ê Ê Ê Ê Ê Ê Ê int max2 = 0;Ê Ê Ê Ê Ê Ê Ê Ê String year = null;Ê Ê Ê Ê Ê Ê Ê Ê String year_sub = null;Ê Ê Ê Ê Ê Ê Ê Ê try {Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Class.forName("com.mysql.jdbc.Driver");Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/temp?autoReconnect=true&useSSL=false", "root", "root");Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê // here sonoo is database name, root is username and passwordÊ Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Statement stmt = con.createStatement();Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê ResultSet rs = stmt.executeQuery("select * from 9091_sample_txt");Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê while (rs.next()) {Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê count++;Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê String Max = rs.getString(27);Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê year = rs.getString(4);Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê if (Max.substring(0, 1).equals("+")) {Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Max = Max.substring(1);Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê year_sub = year.substring(0, 4);Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê int temp = Integer.parseInt(Max);Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê if (year_sub.equals("1990")) {Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê if (temp > max1 && temp != 9999)Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê max1 = temp;}Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê if (year_sub.equals("1991")) {Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê if (temp > max2 && temp != 9999)Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê max2 = temp;}Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê }Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê }Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê con.close();Ê Ê Ê Ê Ê Ê Ê Ê } catch (Ê Ê Ê Ê Ê Ê Ê Ê Exception e) {Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê Ê System.out.println(e);Ê Ê Ê Ê Ê Ê Ê Ê }Ê Ê Ê Ê Ê Ê Ê Ê // System.out.println(count);Ê Ê Ê Ê Ê Ê Ê Ê System.out.println("Maximum temperature in 1990 " + ": " + max1);Ê Ê Ê Ê Ê Ê Ê Ê System.out.println("Maximum temperature in 1991 " + ": " + max2);Ê Ê Ê Ê }}
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.sql.*;
+
+public class MaxTemp9091 {
+
+Â  Â  Â  Â  Connection myConnection;
+
+Â  Â  Â  Â  public static void main(String args[]) {
+Â  Â  Â  Â  Â  Â  Â  Â  int count = 0;
+Â  Â  Â  Â  Â  Â  Â  Â  int max1 = 0;
+Â  Â  Â  Â  Â  Â  Â  Â  int max2 = 0;
+
+Â  Â  Â  Â  Â  Â  Â  Â  String year = null;
+Â  Â  Â  Â  Â  Â  Â  Â  String year_sub = null;
+
+Â  Â  Â  Â  Â  Â  Â  Â  try {
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Class.forName("com.mysql.jdbc.Driver");
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/temp?autoReconnect=true&useSSL=false", "root", "root");
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  // here sonoo is database name, root is username and password
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Statement stmt = con.createStatement();
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ResultSet rs = stmt.executeQuery("select * from 9091_sample_txt");
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  while (rs.next()) {
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  count++;
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  String Max = rs.getString(27);
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  year = rs.getString(4);
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  if (Max.substring(0, 1).equals("+")) {
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Max = Max.substring(1);
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  year_sub = year.substring(0, 4);
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  int temp = Integer.parseInt(Max);
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  if (year_sub.equals("1990")) {
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  if (temp > max1 && temp != 9999)
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  max1 = temp;}
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  if (year_sub.equals("1991")) {
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  if (temp > max2 && temp != 9999)
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  max2 = temp;}
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  }
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  }
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  con.close();
+
+Â  Â  Â  Â  Â  Â  Â  Â  } catch (
+
+Â  Â  Â  Â  Â  Â  Â  Â  Exception e) {
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  System.out.println(e);
+Â  Â  Â  Â  Â  Â  Â  Â  }
+Â  Â  Â  Â  Â  Â  Â  Â  // System.out.println(count);
+Â  Â  Â  Â  Â  Â  Â  Â  System.out.println("Maximum temperature in 1990 " + ": " + max1);
+Â  Â  Â  Â  Â  Â  Â  Â  System.out.println("Maximum temperature in 1991 " + ": " + max2);
+
+Â  Â  Â  Â  }
+
+}
+
