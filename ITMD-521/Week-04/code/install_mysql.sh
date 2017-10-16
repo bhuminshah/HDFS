@@ -1,1 +1,3 @@
-#!/bin/bashsudo apt-get install mysql-server
+#!/bin/bash
+sudo apt-get install mysql-server
+
