@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mysql -u root  -proot   << eof
+mysql -u root  -pitmd521   << eof
 use  temp;
 TRUNCATE TABLE 9091_sample_txt;
 LOAD DATA LOCAL INFILE '~/week04/input/9091-sample.txt'
