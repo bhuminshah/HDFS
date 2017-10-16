@@ -1,5 +1,5 @@
 # Assumptions
-- Input file to parse file is stored in the following location "~/week04/input/"
+- Input file to parse is stored in the following location "~/week04/input/"
 - File names are "9091-sample.txt" and "9293-sample.txt"
 - Database name is "temp"
 - Table names are "9293_sample_txt" and "9091_sample_txt"
