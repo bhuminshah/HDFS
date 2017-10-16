@@ -4,6 +4,7 @@ Run script 'program.sh' from the code folder to:
 - Install MySQL-server
 - Create database and tables
 - Parse data from text file to database
+
 Execute the following java code to find maximum temperature:
 - javac MaxTemp9091.java
 - java MaxTemp9091
