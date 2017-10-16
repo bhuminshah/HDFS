@@ -5,11 +5,15 @@
 - Table names are "9293_sample_txt" and "9091_sample_txt"
 
 # Steps
-Run script 'program.sh' from the code folder to:
-- Install MySQL-server
-- Create database and tables
-- Parse data from text file to database
 
+Issue the following commands:
+  - chmod 777 *.sh
+  - ./program.sh
+  
+Script 'program.sh' from the code folder does the following:
+  - Install MySQL-server
+  - Create database and tables
+  - Parse data from text file to database
 
 Execute the following java code to find maximum temperature:
 - javac MaxTemp9091.java
