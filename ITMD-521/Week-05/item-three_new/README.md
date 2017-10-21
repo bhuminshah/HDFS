@@ -2,6 +2,7 @@
 
 # Assumptions
 
+    - Cluster run in java environment
     - input hadoop directory to run a job is  bshah40/ncdc/input/all-sample.txt
     - Output hadoop directory of the job is bshah40/week05/output/3000/
     - Job run on data set of 1990-sample, 1991-sample, 1992-sample and 1993-sample combined
