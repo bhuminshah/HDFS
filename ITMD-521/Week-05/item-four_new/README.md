@@ -34,4 +34,10 @@
     
 ![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-05/item-four_new/1.png)
 
+# Explaination
+
+    - Key Value pair is Latitude and Temperature
+    - In Mapper class Latitude is captured at every 10 degrees i.e. latitude/1000 and emitted to Reducer class
+    - In Mapper class bad temperature values are removed and emitted to Reducer class
+    - Reducer class emits key value pair for each Latitude and Max Temperature 
 
