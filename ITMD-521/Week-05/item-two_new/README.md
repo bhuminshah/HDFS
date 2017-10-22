@@ -31,4 +31,4 @@
 
 - Displaying result of Minimum temperature in each year
 
-![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-05/item-two/1.png)
+![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-05/item-two_new/1.png)
