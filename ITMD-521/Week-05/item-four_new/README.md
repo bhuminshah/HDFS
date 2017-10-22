@@ -20,7 +20,7 @@
         
     - Run the job using the following command
     
-        $ hadoop jar MLT.jar MaxLatitudeTemperature bshah40/ncdc/input/all-sample.txt bshah40/week05/output/item-four/1/
+        $ hadoop jar MLT.jar MaxLatitudeTemperature bshah40/ncdc/input/9093-sample.txt bshah40/week05/output/item-four/1/
 
 # Output
 
