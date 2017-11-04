@@ -1,0 +1,2001 @@
+1000,gizmo,99.99,2009-11-30,4,Connects two gizmos
+1001,sprocket,99.99,2010-02-10,1,Connects two gizmos
+1002,sprocket,0.25,2009-11-30,13,null
+1003,gizmo,0.25,1983-08-13,1,Our flagship product
+1004,sprocket,4.00,2009-11-30,13,Our flagship product
+1005,gadget,0.25,2010-02-10,4,Connects two gizmos
+1006,gadget,99.99,2010-02-10,13,null
+1007,sprocket,4.00,2009-11-30,1,Connects two gizmos
+1008,sprocket,99.99,2009-11-30,13,Connects two gizmos
+1009,gadget,0.25,2010-02-10,4,Our flagship product
+1010,gizmo,99.99,1983-08-13,4,null
+1011,gadget,0.25,2010-02-10,1,Connects two gizmos
+1012,gadget,4.00,1983-08-13,13,Our flagship product
+1013,gizmo,4.00,2010-02-10,13,Our flagship product
+1014,gizmo,4.00,1983-08-13,13,Connects two gizmos
+1015,gadget,0.25,2010-02-10,13,Connects two gizmos
+1016,sprocket,0.25,2010-02-10,13,Connects two gizmos
+1017,sprocket,0.25,2010-02-10,1,Our flagship product
+1018,sprocket,0.25,2009-11-30,4,Connects two gizmos
+1019,gizmo,0.25,1983-08-13,13,Connects two gizmos
+1020,gizmo,4.00,2010-02-10,4,Connects two gizmos
+1021,sprocket,99.99,1983-08-13,4,null
+1022,sprocket,99.99,2009-11-30,4,null
+1023,gadget,0.25,2009-11-30,13,Connects two gizmos
+1024,sprocket,0.25,2009-11-30,13,null
+1025,gadget,99.99,2009-11-30,1,null
+1026,gadget,0.25,2009-11-30,4,Our flagship product
+1027,gadget,4.00,1983-08-13,13,Connects two gizmos
+1028,gizmo,99.99,1983-08-13,13,Connects two gizmos
+1029,gizmo,4.00,1983-08-13,4,Our flagship product
+1030,sprocket,0.25,2010-02-10,13,null
+1031,gizmo,0.25,2009-11-30,13,null
+1032,sprocket,4.00,2009-11-30,13,null
+1033,sprocket,4.00,1983-08-13,1,Connects two gizmos
+1034,gadget,0.25,2010-02-10,13,Connects two gizmos
+1035,gadget,0.25,1983-08-13,1,null
+1036,gadget,99.99,2009-11-30,1,null
+1037,gadget,4.00,2009-11-30,13,Connects two gizmos
+1038,gizmo,0.25,2010-02-10,1,null
+1039,sprocket,4.00,2010-02-10,1,Our flagship product
+1040,sprocket,0.25,2009-11-30,4,null
+1041,gadget,0.25,2010-02-10,4,Our flagship product
+1042,sprocket,0.25,1983-08-13,1,Our flagship product
+1043,gadget,4.00,2010-02-10,13,null
+1044,gizmo,4.00,1983-08-13,1,Our flagship product
+1045,gadget,0.25,2010-02-10,4,Our flagship product
+1046,sprocket,0.25,2009-11-30,4,null
+1047,gadget,99.99,2009-11-30,13,Connects two gizmos
+1048,gizmo,99.99,1983-08-13,13,Connects two gizmos
+1049,sprocket,99.99,1983-08-13,4,null
+1050,gizmo,99.99,2010-02-10,1,Connects two gizmos
+1051,gizmo,99.99,2010-02-10,1,Our flagship product
+1052,gizmo,0.25,2009-11-30,4,Our flagship product
+1053,gizmo,0.25,2009-11-30,1,null
+1054,sprocket,4.00,1983-08-13,4,Connects two gizmos
+1055,gadget,4.00,1983-08-13,13,Connects two gizmos
+1056,sprocket,4.00,2009-11-30,13,null
+1057,gizmo,99.99,2009-11-30,1,Our flagship product
+1058,gizmo,0.25,1983-08-13,4,null
+1059,gizmo,4.00,2009-11-30,13,null
+1060,gadget,4.00,2010-02-10,1,Our flagship product
+1061,gizmo,4.00,2010-02-10,1,Connects two gizmos
+1062,gadget,99.99,1983-08-13,4,Connects two gizmos
+1063,gizmo,0.25,1983-08-13,13,Connects two gizmos
+1064,gizmo,0.25,1983-08-13,13,Connects two gizmos
+1065,gizmo,0.25,2009-11-30,1,null
+1066,gizmo,0.25,2009-11-30,4,Connects two gizmos
+1067,sprocket,99.99,1983-08-13,4,Our flagship product
+1068,sprocket,99.99,2010-02-10,13,null
+1069,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1070,gizmo,0.25,1983-08-13,1,null
+1071,sprocket,0.25,2009-11-30,13,Our flagship product
+1072,gadget,0.25,1983-08-13,4,Connects two gizmos
+1073,gizmo,99.99,2010-02-10,4,Connects two gizmos
+1074,sprocket,0.25,1983-08-13,4,Our flagship product
+1075,gizmo,0.25,2010-02-10,13,null
+1076,sprocket,0.25,2009-11-30,1,Connects two gizmos
+1077,gadget,0.25,2010-02-10,4,null
+1078,gadget,4.00,2010-02-10,13,Connects two gizmos
+1079,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1080,gadget,4.00,1983-08-13,4,null
+1081,gadget,99.99,1983-08-13,13,Connects two gizmos
+1082,gadget,4.00,2009-11-30,13,Connects two gizmos
+1083,gadget,99.99,2009-11-30,4,null
+1084,gizmo,99.99,1983-08-13,4,null
+1085,gadget,0.25,2010-02-10,1,Connects two gizmos
+1086,sprocket,0.25,1983-08-13,13,null
+1087,gizmo,0.25,2010-02-10,1,Our flagship product
+1088,sprocket,0.25,2009-11-30,13,Connects two gizmos
+1089,gadget,99.99,1983-08-13,13,Our flagship product
+1090,sprocket,4.00,2009-11-30,1,Our flagship product
+1091,sprocket,99.99,2009-11-30,13,null
+1092,gadget,4.00,2009-11-30,4,Connects two gizmos
+1093,sprocket,99.99,2010-02-10,4,null
+1094,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1095,gadget,0.25,2010-02-10,4,Our flagship product
+1096,sprocket,4.00,2009-11-30,1,Connects two gizmos
+1097,gizmo,99.99,2010-02-10,4,Our flagship product
+1098,gizmo,4.00,2010-02-10,4,Our flagship product
+1099,sprocket,4.00,1983-08-13,13,Our flagship product
+1100,sprocket,4.00,2010-02-10,4,Our flagship product
+1101,gizmo,0.25,2010-02-10,1,null
+1102,sprocket,0.25,2009-11-30,1,Connects two gizmos
+1103,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1104,gizmo,4.00,2010-02-10,4,null
+1105,sprocket,0.25,1983-08-13,4,Connects two gizmos
+1106,sprocket,0.25,1983-08-13,1,Our flagship product
+1107,gadget,0.25,1983-08-13,4,Our flagship product
+1108,gizmo,4.00,2010-02-10,4,Connects two gizmos
+1109,sprocket,4.00,2010-02-10,4,null
+1110,sprocket,99.99,2010-02-10,13,null
+1111,gadget,4.00,2010-02-10,13,Our flagship product
+1112,gizmo,0.25,1983-08-13,13,Our flagship product
+1113,gadget,99.99,2009-11-30,13,Our flagship product
+1114,sprocket,0.25,1983-08-13,13,null
+1115,sprocket,4.00,1983-08-13,13,null
+1116,sprocket,4.00,2010-02-10,13,Our flagship product
+1117,sprocket,99.99,2010-02-10,13,null
+1118,sprocket,99.99,1983-08-13,13,null
+1119,gadget,0.25,1983-08-13,13,Connects two gizmos
+1120,gadget,4.00,2010-02-10,13,null
+1121,sprocket,99.99,1983-08-13,13,null
+1122,sprocket,0.25,2009-11-30,13,Our flagship product
+1123,sprocket,0.25,2010-02-10,13,Our flagship product
+1124,sprocket,0.25,2010-02-10,4,Our flagship product
+1125,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1126,gadget,99.99,2009-11-30,13,null
+1127,gadget,99.99,2009-11-30,4,Our flagship product
+1128,sprocket,4.00,2009-11-30,1,null
+1129,gizmo,99.99,1983-08-13,13,Connects two gizmos
+1130,gadget,4.00,2009-11-30,4,Our flagship product
+1131,gadget,4.00,1983-08-13,13,Our flagship product
+1132,gizmo,0.25,1983-08-13,4,null
+1133,sprocket,4.00,1983-08-13,13,Connects two gizmos
+1134,gadget,0.25,2009-11-30,13,null
+1135,sprocket,4.00,2009-11-30,1,null
+1136,gizmo,99.99,1983-08-13,1,null
+1137,sprocket,0.25,2009-11-30,4,Our flagship product
+1138,gizmo,0.25,2010-02-10,1,null
+1139,sprocket,99.99,2009-11-30,13,null
+1140,sprocket,4.00,2010-02-10,1,null
+1141,gadget,0.25,2010-02-10,13,Our flagship product
+1142,sprocket,99.99,2010-02-10,4,null
+1143,gizmo,0.25,2009-11-30,4,null
+1144,sprocket,0.25,2009-11-30,4,Our flagship product
+1145,sprocket,0.25,1983-08-13,13,Connects two gizmos
+1146,sprocket,0.25,1983-08-13,13,Connects two gizmos
+1147,gizmo,4.00,2009-11-30,4,Our flagship product
+1148,sprocket,99.99,2009-11-30,4,null
+1149,gizmo,99.99,2010-02-10,1,Connects two gizmos
+1150,gizmo,99.99,2009-11-30,13,Our flagship product
+1151,sprocket,0.25,2010-02-10,13,Our flagship product
+1152,gadget,0.25,2010-02-10,1,Connects two gizmos
+1153,gadget,4.00,1983-08-13,13,null
+1154,gadget,0.25,2010-02-10,4,Connects two gizmos
+1155,gizmo,99.99,2009-11-30,13,null
+1156,gadget,99.99,2009-11-30,13,null
+1157,sprocket,0.25,2010-02-10,4,Our flagship product
+1158,sprocket,99.99,2009-11-30,4,Connects two gizmos
+1159,gizmo,0.25,1983-08-13,4,Connects two gizmos
+1160,gadget,4.00,2009-11-30,4,Our flagship product
+1161,gizmo,4.00,2010-02-10,1,Connects two gizmos
+1162,gizmo,4.00,2010-02-10,13,null
+1163,gadget,4.00,2010-02-10,4,Connects two gizmos
+1164,gizmo,4.00,2009-11-30,13,null
+1165,gizmo,0.25,1983-08-13,1,null
+1166,gizmo,0.25,2010-02-10,4,Connects two gizmos
+1167,sprocket,4.00,2009-11-30,4,Our flagship product
+1168,gadget,0.25,1983-08-13,13,Our flagship product
+1169,sprocket,0.25,1983-08-13,13,null
+1170,gizmo,0.25,2010-02-10,1,Connects two gizmos
+1171,gizmo,4.00,1983-08-13,1,Connects two gizmos
+1172,gizmo,0.25,1983-08-13,1,Our flagship product
+1173,sprocket,99.99,2010-02-10,1,Connects two gizmos
+1174,gizmo,99.99,2009-11-30,1,null
+1175,gizmo,99.99,2010-02-10,4,null
+1176,sprocket,4.00,2009-11-30,13,Our flagship product
+1177,sprocket,4.00,2009-11-30,13,Connects two gizmos
+1178,sprocket,99.99,2009-11-30,13,null
+1179,gadget,99.99,1983-08-13,13,Our flagship product
+1180,sprocket,0.25,2010-02-10,13,Connects two gizmos
+1181,sprocket,99.99,2009-11-30,4,Our flagship product
+1182,gadget,4.00,2010-02-10,13,null
+1183,gadget,4.00,2009-11-30,13,Connects two gizmos
+1184,gadget,0.25,2010-02-10,4,Our flagship product
+1185,gadget,99.99,2009-11-30,1,null
+1186,gizmo,4.00,2010-02-10,4,null
+1187,gadget,0.25,2009-11-30,1,Connects two gizmos
+1188,gizmo,4.00,2010-02-10,13,Connects two gizmos
+1189,gizmo,4.00,2010-02-10,13,null
+1190,gizmo,4.00,2009-11-30,4,Our flagship product
+1191,gizmo,0.25,2009-11-30,4,Connects two gizmos
+1192,sprocket,4.00,2009-11-30,1,Connects two gizmos
+1193,sprocket,4.00,2010-02-10,4,Our flagship product
+1194,gadget,99.99,2009-11-30,1,Connects two gizmos
+1195,sprocket,99.99,2010-02-10,4,Connects two gizmos
+1196,gizmo,0.25,2009-11-30,4,null
+1197,sprocket,0.25,2009-11-30,1,null
+1198,sprocket,0.25,1983-08-13,4,Our flagship product
+1199,sprocket,0.25,2010-02-10,1,Connects two gizmos
+1200,gadget,0.25,2010-02-10,1,null
+1201,gadget,0.25,1983-08-13,4,Our flagship product
+1202,sprocket,4.00,2009-11-30,4,null
+1203,sprocket,99.99,1983-08-13,1,Our flagship product
+1204,gizmo,99.99,1983-08-13,13,Connects two gizmos
+1205,gizmo,0.25,2009-11-30,13,null
+1206,gizmo,0.25,2010-02-10,1,Our flagship product
+1207,sprocket,99.99,1983-08-13,13,Our flagship product
+1208,gadget,99.99,1983-08-13,1,null
+1209,gadget,4.00,1983-08-13,4,Connects two gizmos
+1210,gadget,0.25,2010-02-10,13,null
+1211,sprocket,99.99,2009-11-30,1,null
+1212,gizmo,4.00,2010-02-10,1,Connects two gizmos
+1213,gadget,0.25,2010-02-10,1,Our flagship product
+1214,gizmo,4.00,2010-02-10,4,Connects two gizmos
+1215,gadget,4.00,2009-11-30,1,null
+1216,gadget,99.99,1983-08-13,13,Connects two gizmos
+1217,gadget,99.99,2010-02-10,4,null
+1218,gizmo,99.99,1983-08-13,4,Our flagship product
+1219,sprocket,4.00,2009-11-30,13,Connects two gizmos
+1220,gadget,0.25,2009-11-30,1,null
+1221,sprocket,0.25,1983-08-13,4,Connects two gizmos
+1222,gadget,4.00,1983-08-13,13,Our flagship product
+1223,sprocket,99.99,2010-02-10,13,Our flagship product
+1224,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1225,sprocket,99.99,2010-02-10,13,Our flagship product
+1226,sprocket,99.99,1983-08-13,4,Our flagship product
+1227,sprocket,0.25,2009-11-30,13,Connects two gizmos
+1228,gadget,0.25,2010-02-10,1,null
+1229,gadget,99.99,2010-02-10,13,Connects two gizmos
+1230,gadget,4.00,1983-08-13,4,Connects two gizmos
+1231,gizmo,99.99,2010-02-10,13,Our flagship product
+1232,gizmo,99.99,2009-11-30,4,Connects two gizmos
+1233,gizmo,99.99,2010-02-10,13,Our flagship product
+1234,sprocket,99.99,2010-02-10,13,Our flagship product
+1235,gizmo,99.99,1983-08-13,1,Our flagship product
+1236,gadget,99.99,2010-02-10,13,Connects two gizmos
+1237,gizmo,99.99,1983-08-13,1,Our flagship product
+1238,sprocket,0.25,2010-02-10,1,Our flagship product
+1239,sprocket,4.00,2010-02-10,13,null
+1240,sprocket,0.25,1983-08-13,13,Connects two gizmos
+1241,gizmo,4.00,1983-08-13,4,Our flagship product
+1242,gizmo,0.25,2009-11-30,13,Connects two gizmos
+1243,gadget,0.25,1983-08-13,1,Our flagship product
+1244,sprocket,4.00,1983-08-13,1,null
+1245,sprocket,0.25,2010-02-10,4,null
+1246,gadget,99.99,2009-11-30,4,Connects two gizmos
+1247,sprocket,99.99,2009-11-30,1,Our flagship product
+1248,gadget,99.99,2009-11-30,13,null
+1249,sprocket,0.25,2009-11-30,4,Our flagship product
+1250,gadget,99.99,1983-08-13,1,Connects two gizmos
+1251,sprocket,99.99,2010-02-10,13,null
+1252,gizmo,4.00,2010-02-10,13,Connects two gizmos
+1253,gizmo,99.99,2010-02-10,1,Our flagship product
+1254,gizmo,0.25,2009-11-30,13,null
+1255,gizmo,0.25,2010-02-10,4,null
+1256,gizmo,0.25,2010-02-10,13,Our flagship product
+1257,gizmo,0.25,1983-08-13,1,Connects two gizmos
+1258,sprocket,99.99,2009-11-30,1,Our flagship product
+1259,gadget,99.99,2009-11-30,1,null
+1260,sprocket,99.99,2009-11-30,13,null
+1261,gizmo,99.99,1983-08-13,13,Our flagship product
+1262,gizmo,0.25,2009-11-30,1,Our flagship product
+1263,gizmo,4.00,2009-11-30,13,Our flagship product
+1264,gadget,99.99,2009-11-30,1,Connects two gizmos
+1265,sprocket,0.25,2009-11-30,4,Our flagship product
+1266,gadget,4.00,2009-11-30,1,null
+1267,sprocket,0.25,2009-11-30,1,Connects two gizmos
+1268,gizmo,0.25,2010-02-10,4,Our flagship product
+1269,gadget,0.25,2009-11-30,1,Connects two gizmos
+1270,gizmo,0.25,1983-08-13,4,Our flagship product
+1271,sprocket,99.99,1983-08-13,1,Our flagship product
+1272,gadget,4.00,2009-11-30,1,null
+1273,sprocket,4.00,2010-02-10,4,null
+1274,sprocket,0.25,1983-08-13,4,Connects two gizmos
+1275,gizmo,4.00,2010-02-10,4,null
+1276,sprocket,99.99,2009-11-30,4,Connects two gizmos
+1277,gizmo,99.99,2010-02-10,4,Connects two gizmos
+1278,gizmo,99.99,1983-08-13,1,Our flagship product
+1279,sprocket,0.25,2009-11-30,4,Connects two gizmos
+1280,gizmo,4.00,2010-02-10,13,Connects two gizmos
+1281,gizmo,0.25,2009-11-30,1,Connects two gizmos
+1282,gizmo,99.99,2010-02-10,1,Our flagship product
+1283,sprocket,99.99,1983-08-13,1,Connects two gizmos
+1284,sprocket,0.25,1983-08-13,1,Connects two gizmos
+1285,gadget,0.25,2009-11-30,13,Our flagship product
+1286,gadget,99.99,2010-02-10,1,null
+1287,sprocket,0.25,2010-02-10,13,Our flagship product
+1288,sprocket,0.25,2010-02-10,1,null
+1289,gadget,4.00,2009-11-30,1,Our flagship product
+1290,sprocket,4.00,2010-02-10,13,null
+1291,sprocket,99.99,2009-11-30,4,Our flagship product
+1292,sprocket,4.00,1983-08-13,13,Connects two gizmos
+1293,sprocket,0.25,2010-02-10,13,null
+1294,gizmo,0.25,2010-02-10,4,Our flagship product
+1295,gadget,0.25,2010-02-10,13,null
+1296,gizmo,99.99,2009-11-30,13,Our flagship product
+1297,sprocket,4.00,1983-08-13,4,Our flagship product
+1298,sprocket,0.25,2010-02-10,1,Our flagship product
+1299,gizmo,99.99,1983-08-13,13,Our flagship product
+1300,gizmo,4.00,2009-11-30,13,null
+1301,gizmo,99.99,2009-11-30,4,null
+1302,gizmo,0.25,2009-11-30,1,Our flagship product
+1303,gadget,4.00,2009-11-30,13,null
+1304,gadget,0.25,1983-08-13,1,Our flagship product
+1305,sprocket,0.25,1983-08-13,1,Connects two gizmos
+1306,sprocket,4.00,2009-11-30,1,Connects two gizmos
+1307,gizmo,99.99,2009-11-30,1,Connects two gizmos
+1308,gizmo,99.99,1983-08-13,4,Our flagship product
+1309,gadget,99.99,1983-08-13,1,Connects two gizmos
+1310,gadget,4.00,2009-11-30,1,Connects two gizmos
+1311,gizmo,0.25,2009-11-30,1,Connects two gizmos
+1312,gadget,99.99,1983-08-13,4,Our flagship product
+1313,gizmo,0.25,1983-08-13,4,null
+1314,sprocket,0.25,2010-02-10,13,Connects two gizmos
+1315,gadget,4.00,1983-08-13,13,null
+1316,gadget,99.99,2010-02-10,4,Connects two gizmos
+1317,sprocket,99.99,2010-02-10,1,Connects two gizmos
+1318,gadget,0.25,1983-08-13,13,null
+1319,gadget,99.99,2010-02-10,13,null
+1320,sprocket,99.99,2010-02-10,4,Our flagship product
+1321,gadget,4.00,1983-08-13,1,Our flagship product
+1322,gizmo,0.25,2010-02-10,13,Our flagship product
+1323,gadget,0.25,2009-11-30,4,null
+1324,sprocket,4.00,1983-08-13,1,Our flagship product
+1325,gizmo,99.99,2010-02-10,1,null
+1326,sprocket,0.25,2010-02-10,1,Our flagship product
+1327,gadget,99.99,2010-02-10,1,Our flagship product
+1328,sprocket,4.00,2010-02-10,4,Our flagship product
+1329,sprocket,0.25,2009-11-30,4,Our flagship product
+1330,sprocket,0.25,2009-11-30,13,null
+1331,sprocket,4.00,2010-02-10,4,Connects two gizmos
+1332,sprocket,0.25,1983-08-13,4,Connects two gizmos
+1333,gizmo,0.25,2009-11-30,4,null
+1334,gadget,0.25,1983-08-13,13,Connects two gizmos
+1335,gadget,99.99,1983-08-13,4,Our flagship product
+1336,sprocket,4.00,2009-11-30,13,Connects two gizmos
+1337,gadget,0.25,1983-08-13,1,Our flagship product
+1338,gizmo,99.99,2009-11-30,1,null
+1339,sprocket,4.00,2010-02-10,4,Connects two gizmos
+1340,gadget,0.25,2010-02-10,13,Our flagship product
+1341,sprocket,99.99,2009-11-30,13,Connects two gizmos
+1342,gadget,4.00,2010-02-10,4,Connects two gizmos
+1343,sprocket,0.25,1983-08-13,4,Connects two gizmos
+1344,gadget,0.25,2010-02-10,4,null
+1345,gizmo,0.25,2009-11-30,13,null
+1346,gizmo,4.00,2010-02-10,4,Connects two gizmos
+1347,gizmo,99.99,2010-02-10,4,Connects two gizmos
+1348,gadget,0.25,2009-11-30,13,Our flagship product
+1349,gizmo,0.25,2010-02-10,1,Our flagship product
+1350,gadget,0.25,1983-08-13,1,null
+1351,gadget,0.25,2010-02-10,13,null
+1352,gadget,4.00,2009-11-30,4,Our flagship product
+1353,gizmo,0.25,2009-11-30,1,null
+1354,gizmo,99.99,1983-08-13,13,Our flagship product
+1355,gadget,4.00,2009-11-30,13,null
+1356,gizmo,4.00,1983-08-13,1,null
+1357,gizmo,0.25,2009-11-30,13,Connects two gizmos
+1358,gizmo,99.99,2010-02-10,13,Our flagship product
+1359,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1360,gadget,4.00,1983-08-13,4,Connects two gizmos
+1361,gadget,99.99,1983-08-13,4,Connects two gizmos
+1362,gadget,99.99,2009-11-30,13,Our flagship product
+1363,gadget,99.99,2010-02-10,4,null
+1364,gizmo,99.99,2010-02-10,1,Our flagship product
+1365,gizmo,99.99,2009-11-30,1,Our flagship product
+1366,sprocket,99.99,2010-02-10,13,Our flagship product
+1367,gadget,0.25,2010-02-10,4,Our flagship product
+1368,gadget,4.00,1983-08-13,13,Our flagship product
+1369,gadget,4.00,1983-08-13,1,Our flagship product
+1370,gizmo,4.00,2010-02-10,13,Connects two gizmos
+1371,gadget,99.99,2010-02-10,1,null
+1372,gadget,0.25,2009-11-30,13,Connects two gizmos
+1373,sprocket,4.00,2010-02-10,4,null
+1374,gizmo,0.25,2009-11-30,4,Our flagship product
+1375,sprocket,4.00,1983-08-13,4,Connects two gizmos
+1376,gadget,0.25,2009-11-30,4,Connects two gizmos
+1377,gadget,4.00,2009-11-30,4,null
+1378,gadget,0.25,1983-08-13,1,Connects two gizmos
+1379,gadget,0.25,1983-08-13,1,Connects two gizmos
+1380,gadget,99.99,2009-11-30,4,Connects two gizmos
+1381,gadget,4.00,2009-11-30,1,Connects two gizmos
+1382,sprocket,0.25,1983-08-13,13,Our flagship product
+1383,sprocket,0.25,2009-11-30,4,null
+1384,gadget,99.99,2010-02-10,1,Our flagship product
+1385,sprocket,99.99,2010-02-10,13,Connects two gizmos
+1386,sprocket,0.25,2009-11-30,13,Our flagship product
+1387,gadget,99.99,2010-02-10,4,Our flagship product
+1388,gizmo,99.99,2009-11-30,13,Connects two gizmos
+1389,sprocket,99.99,2010-02-10,1,null
+1390,gadget,4.00,2009-11-30,13,Our flagship product
+1391,gadget,99.99,1983-08-13,13,Connects two gizmos
+1392,gizmo,0.25,2010-02-10,13,Connects two gizmos
+1393,gizmo,0.25,1983-08-13,4,Connects two gizmos
+1394,gizmo,4.00,2010-02-10,4,Connects two gizmos
+1395,gadget,0.25,2010-02-10,13,null
+1396,sprocket,4.00,2010-02-10,4,Our flagship product
+1397,gadget,0.25,2010-02-10,4,Our flagship product
+1398,gizmo,0.25,2010-02-10,4,null
+1399,gizmo,0.25,2010-02-10,4,Connects two gizmos
+1400,sprocket,0.25,2010-02-10,13,Connects two gizmos
+1401,sprocket,99.99,2010-02-10,1,null
+1402,gizmo,99.99,1983-08-13,4,Our flagship product
+1403,sprocket,99.99,1983-08-13,1,Our flagship product
+1404,gizmo,99.99,1983-08-13,13,Our flagship product
+1405,gadget,0.25,2010-02-10,1,null
+1406,sprocket,4.00,2010-02-10,4,Our flagship product
+1407,sprocket,0.25,2010-02-10,4,null
+1408,gizmo,4.00,2010-02-10,1,null
+1409,gadget,0.25,1983-08-13,1,null
+1410,sprocket,4.00,2009-11-30,1,null
+1411,sprocket,4.00,2010-02-10,4,Connects two gizmos
+1412,gadget,4.00,1983-08-13,1,Our flagship product
+1413,gizmo,99.99,2010-02-10,13,Our flagship product
+1414,sprocket,0.25,1983-08-13,1,null
+1415,sprocket,0.25,2009-11-30,4,Our flagship product
+1416,sprocket,99.99,2009-11-30,4,Connects two gizmos
+1417,gizmo,99.99,1983-08-13,1,null
+1418,gizmo,0.25,2009-11-30,13,Our flagship product
+1419,gizmo,99.99,2009-11-30,4,Connects two gizmos
+1420,sprocket,99.99,2010-02-10,4,null
+1421,gadget,4.00,2009-11-30,1,Our flagship product
+1422,sprocket,99.99,1983-08-13,13,Connects two gizmos
+1423,gadget,4.00,1983-08-13,13,null
+1424,sprocket,4.00,1983-08-13,1,null
+1425,sprocket,99.99,1983-08-13,13,Connects two gizmos
+1426,gadget,4.00,1983-08-13,13,null
+1427,gizmo,0.25,2010-02-10,13,Our flagship product
+1428,sprocket,99.99,1983-08-13,1,Connects two gizmos
+1429,gizmo,99.99,2009-11-30,1,Our flagship product
+1430,sprocket,0.25,2009-11-30,4,Connects two gizmos
+1431,gizmo,0.25,1983-08-13,13,Our flagship product
+1432,gadget,0.25,2010-02-10,13,Our flagship product
+1433,gadget,99.99,2009-11-30,4,Our flagship product
+1434,sprocket,0.25,2010-02-10,1,Our flagship product
+1435,gadget,99.99,2010-02-10,13,Connects two gizmos
+1436,sprocket,4.00,1983-08-13,4,null
+1437,sprocket,4.00,2010-02-10,4,null
+1438,sprocket,99.99,2009-11-30,1,null
+1439,gadget,0.25,1983-08-13,4,Connects two gizmos
+1440,sprocket,4.00,2010-02-10,13,Our flagship product
+1441,gizmo,99.99,2010-02-10,4,Our flagship product
+1442,sprocket,4.00,1983-08-13,13,Our flagship product
+1443,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1444,sprocket,4.00,1983-08-13,13,Connects two gizmos
+1445,gadget,99.99,2010-02-10,13,Connects two gizmos
+1446,gizmo,0.25,2010-02-10,4,null
+1447,sprocket,0.25,2010-02-10,13,Our flagship product
+1448,gadget,99.99,2010-02-10,4,Connects two gizmos
+1449,sprocket,99.99,1983-08-13,1,null
+1450,gizmo,4.00,1983-08-13,13,Connects two gizmos
+1451,gadget,4.00,1983-08-13,1,Our flagship product
+1452,gadget,0.25,1983-08-13,1,null
+1453,gizmo,99.99,1983-08-13,1,null
+1454,gizmo,99.99,1983-08-13,13,Connects two gizmos
+1455,sprocket,4.00,1983-08-13,1,null
+1456,sprocket,99.99,2009-11-30,1,Connects two gizmos
+1457,sprocket,99.99,1983-08-13,4,Connects two gizmos
+1458,sprocket,99.99,1983-08-13,1,null
+1459,gizmo,99.99,2010-02-10,4,null
+1460,gadget,0.25,1983-08-13,13,Connects two gizmos
+1461,sprocket,4.00,2009-11-30,13,Connects two gizmos
+1462,gadget,4.00,2009-11-30,1,null
+1463,gizmo,4.00,1983-08-13,4,null
+1464,sprocket,4.00,1983-08-13,13,Connects two gizmos
+1465,sprocket,0.25,2009-11-30,4,Connects two gizmos
+1466,gizmo,4.00,1983-08-13,13,null
+1467,sprocket,0.25,1983-08-13,1,Connects two gizmos
+1468,sprocket,99.99,2009-11-30,4,null
+1469,sprocket,99.99,2010-02-10,4,null
+1470,sprocket,99.99,2009-11-30,1,Our flagship product
+1471,sprocket,4.00,2010-02-10,13,Our flagship product
+1472,gadget,99.99,2010-02-10,4,null
+1473,gizmo,0.25,1983-08-13,4,null
+1474,gizmo,4.00,1983-08-13,4,Connects two gizmos
+1475,gizmo,0.25,2010-02-10,4,null
+1476,gizmo,0.25,1983-08-13,4,null
+1477,gadget,0.25,2010-02-10,1,null
+1478,sprocket,99.99,2009-11-30,1,Our flagship product
+1479,gadget,4.00,1983-08-13,4,Connects two gizmos
+1480,gadget,4.00,2009-11-30,13,Our flagship product
+1481,gadget,99.99,1983-08-13,13,null
+1482,sprocket,0.25,1983-08-13,1,null
+1483,gizmo,99.99,2010-02-10,4,Connects two gizmos
+1484,gadget,0.25,2009-11-30,4,Connects two gizmos
+1485,sprocket,0.25,2009-11-30,13,null
+1486,gizmo,4.00,1983-08-13,13,Our flagship product
+1487,gadget,0.25,2010-02-10,1,Our flagship product
+1488,gadget,4.00,2010-02-10,13,Our flagship product
+1489,sprocket,99.99,2009-11-30,13,null
+1490,gadget,4.00,1983-08-13,13,Connects two gizmos
+1491,gadget,99.99,2010-02-10,13,Connects two gizmos
+1492,gadget,4.00,2010-02-10,13,Our flagship product
+1493,sprocket,4.00,2009-11-30,4,null
+1494,gadget,0.25,1983-08-13,13,null
+1495,sprocket,99.99,1983-08-13,13,Connects two gizmos
+1496,gizmo,4.00,1983-08-13,13,Connects two gizmos
+1497,gadget,4.00,2009-11-30,1,Connects two gizmos
+1498,gadget,99.99,2009-11-30,1,Our flagship product
+1499,sprocket,4.00,1983-08-13,4,Connects two gizmos
+1500,gadget,99.99,1983-08-13,13,Connects two gizmos
+1501,sprocket,0.25,2010-02-10,13,null
+1502,gadget,0.25,2009-11-30,4,Connects two gizmos
+1503,gizmo,4.00,1983-08-13,1,Connects two gizmos
+1504,gizmo,4.00,2009-11-30,1,Connects two gizmos
+1505,sprocket,99.99,1983-08-13,13,null
+1506,gizmo,0.25,1983-08-13,13,Connects two gizmos
+1507,gadget,0.25,2009-11-30,13,null
+1508,gizmo,4.00,2009-11-30,1,null
+1509,gizmo,0.25,2009-11-30,4,null
+1510,sprocket,0.25,2009-11-30,13,null
+1511,sprocket,0.25,1983-08-13,1,Our flagship product
+1512,sprocket,4.00,2010-02-10,13,null
+1513,gizmo,0.25,1983-08-13,4,null
+1514,sprocket,0.25,2010-02-10,4,null
+1515,sprocket,99.99,2010-02-10,1,null
+1516,gizmo,99.99,2010-02-10,13,null
+1517,sprocket,99.99,1983-08-13,4,Connects two gizmos
+1518,gizmo,0.25,2010-02-10,13,Our flagship product
+1519,gadget,0.25,2010-02-10,1,Our flagship product
+1520,gizmo,0.25,1983-08-13,13,null
+1521,gizmo,4.00,2010-02-10,13,Connects two gizmos
+1522,gadget,99.99,1983-08-13,13,Connects two gizmos
+1523,gizmo,0.25,2009-11-30,1,Connects two gizmos
+1524,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1525,sprocket,0.25,2010-02-10,4,Connects two gizmos
+1526,sprocket,0.25,1983-08-13,1,Our flagship product
+1527,gadget,0.25,2009-11-30,1,null
+1528,gadget,99.99,1983-08-13,13,Connects two gizmos
+1529,gadget,0.25,2010-02-10,13,Our flagship product
+1530,gadget,99.99,2010-02-10,1,Connects two gizmos
+1531,sprocket,99.99,2010-02-10,1,Connects two gizmos
+1532,gadget,4.00,2009-11-30,1,Connects two gizmos
+1533,gadget,4.00,2010-02-10,4,Connects two gizmos
+1534,sprocket,99.99,2010-02-10,4,Our flagship product
+1535,gadget,99.99,2009-11-30,4,Connects two gizmos
+1536,sprocket,99.99,1983-08-13,1,null
+1537,sprocket,99.99,2010-02-10,13,null
+1538,sprocket,4.00,1983-08-13,4,Our flagship product
+1539,gizmo,99.99,2009-11-30,1,Connects two gizmos
+1540,gadget,99.99,1983-08-13,13,null
+1541,gadget,0.25,2010-02-10,1,Our flagship product
+1542,gadget,0.25,2009-11-30,13,Our flagship product
+1543,gizmo,0.25,1983-08-13,4,Connects two gizmos
+1544,sprocket,99.99,1983-08-13,13,null
+1545,sprocket,99.99,2010-02-10,13,Connects two gizmos
+1546,sprocket,0.25,1983-08-13,4,Connects two gizmos
+1547,gizmo,99.99,1983-08-13,1,Our flagship product
+1548,gadget,0.25,1983-08-13,4,Connects two gizmos
+1549,gadget,0.25,2009-11-30,13,Connects two gizmos
+1550,gizmo,99.99,2010-02-10,1,Our flagship product
+1551,gizmo,99.99,2010-02-10,13,Our flagship product
+1552,gizmo,4.00,1983-08-13,4,Connects two gizmos
+1553,gizmo,0.25,2009-11-30,1,Our flagship product
+1554,gizmo,99.99,2010-02-10,13,Our flagship product
+1555,sprocket,0.25,1983-08-13,13,Connects two gizmos
+1556,gadget,99.99,1983-08-13,13,Our flagship product
+1557,sprocket,0.25,1983-08-13,1,Our flagship product
+1558,gizmo,4.00,2009-11-30,4,Connects two gizmos
+1559,gadget,99.99,2009-11-30,13,null
+1560,gadget,0.25,2010-02-10,13,null
+1561,gizmo,99.99,2010-02-10,1,Connects two gizmos
+1562,sprocket,0.25,2009-11-30,4,Our flagship product
+1563,gizmo,0.25,1983-08-13,1,Our flagship product
+1564,gadget,4.00,1983-08-13,13,Connects two gizmos
+1565,gizmo,99.99,2010-02-10,1,null
+1566,gadget,99.99,2009-11-30,1,Connects two gizmos
+1567,gadget,0.25,2010-02-10,1,null
+1568,gadget,0.25,1983-08-13,13,Connects two gizmos
+1569,gadget,0.25,2010-02-10,1,null
+1570,sprocket,4.00,2010-02-10,13,null
+1571,gadget,4.00,2009-11-30,1,null
+1572,gizmo,4.00,2009-11-30,13,null
+1573,gizmo,99.99,1983-08-13,13,Our flagship product
+1574,gizmo,0.25,2009-11-30,1,Our flagship product
+1575,gadget,4.00,1983-08-13,13,Connects two gizmos
+1576,gadget,4.00,2010-02-10,1,Our flagship product
+1577,gizmo,99.99,2009-11-30,13,Our flagship product
+1578,sprocket,0.25,2010-02-10,1,null
+1579,sprocket,0.25,2010-02-10,4,null
+1580,gizmo,4.00,1983-08-13,1,Our flagship product
+1581,gizmo,0.25,1983-08-13,1,Our flagship product
+1582,gizmo,99.99,1983-08-13,13,null
+1583,gizmo,99.99,2009-11-30,1,Our flagship product
+1584,gizmo,4.00,2010-02-10,13,null
+1585,gadget,4.00,1983-08-13,13,null
+1586,gizmo,0.25,2010-02-10,1,Connects two gizmos
+1587,gadget,99.99,2009-11-30,4,Our flagship product
+1588,sprocket,99.99,2010-02-10,4,null
+1589,gizmo,99.99,2010-02-10,4,null
+1590,gadget,4.00,2009-11-30,13,Our flagship product
+1591,sprocket,0.25,2009-11-30,1,Our flagship product
+1592,gizmo,99.99,2009-11-30,4,Connects two gizmos
+1593,sprocket,99.99,2010-02-10,13,Our flagship product
+1594,sprocket,4.00,1983-08-13,1,Connects two gizmos
+1595,sprocket,99.99,2009-11-30,1,null
+1596,gizmo,99.99,2009-11-30,4,null
+1597,gizmo,4.00,1983-08-13,4,null
+1598,gizmo,0.25,2009-11-30,1,Connects two gizmos
+1599,gadget,99.99,2010-02-10,13,Connects two gizmos
+1600,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1601,sprocket,4.00,2010-02-10,4,Our flagship product
+1602,gizmo,4.00,2009-11-30,4,Our flagship product
+1603,gizmo,0.25,2010-02-10,1,null
+1604,gizmo,4.00,2009-11-30,4,Connects two gizmos
+1605,sprocket,0.25,1983-08-13,1,Connects two gizmos
+1606,sprocket,99.99,2009-11-30,4,Our flagship product
+1607,gadget,0.25,1983-08-13,4,Our flagship product
+1608,sprocket,0.25,2009-11-30,4,null
+1609,sprocket,4.00,2009-11-30,13,null
+1610,gadget,0.25,1983-08-13,4,Connects two gizmos
+1611,gadget,0.25,2010-02-10,1,null
+1612,sprocket,99.99,2009-11-30,1,Connects two gizmos
+1613,gizmo,0.25,2010-02-10,13,null
+1614,gadget,0.25,2009-11-30,1,null
+1615,gadget,99.99,2010-02-10,4,Connects two gizmos
+1616,gadget,99.99,2009-11-30,1,Connects two gizmos
+1617,sprocket,0.25,2009-11-30,1,Our flagship product
+1618,sprocket,0.25,2009-11-30,13,Connects two gizmos
+1619,gizmo,4.00,2010-02-10,4,Connects two gizmos
+1620,gizmo,0.25,1983-08-13,13,null
+1621,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1622,gadget,0.25,1983-08-13,4,Connects two gizmos
+1623,gizmo,4.00,2010-02-10,1,Connects two gizmos
+1624,gadget,99.99,2010-02-10,13,null
+1625,sprocket,99.99,2010-02-10,4,null
+1626,gadget,0.25,2009-11-30,1,null
+1627,gizmo,4.00,1983-08-13,1,Connects two gizmos
+1628,gadget,99.99,2010-02-10,13,Connects two gizmos
+1629,sprocket,0.25,2009-11-30,13,Our flagship product
+1630,gizmo,99.99,1983-08-13,1,Connects two gizmos
+1631,sprocket,4.00,2009-11-30,4,Our flagship product
+1632,gizmo,4.00,2010-02-10,13,null
+1633,gizmo,4.00,2009-11-30,4,Our flagship product
+1634,gadget,4.00,2009-11-30,1,null
+1635,gizmo,4.00,1983-08-13,1,Connects two gizmos
+1636,sprocket,0.25,2009-11-30,13,Connects two gizmos
+1637,gadget,4.00,1983-08-13,13,null
+1638,sprocket,4.00,1983-08-13,13,Connects two gizmos
+1639,gadget,4.00,2009-11-30,1,Connects two gizmos
+1640,sprocket,0.25,2009-11-30,13,Connects two gizmos
+1641,gadget,4.00,2009-11-30,1,Our flagship product
+1642,gizmo,4.00,2009-11-30,13,Connects two gizmos
+1643,gadget,0.25,2010-02-10,13,Our flagship product
+1644,gizmo,4.00,2009-11-30,1,Our flagship product
+1645,gadget,0.25,1983-08-13,1,Our flagship product
+1646,gadget,99.99,1983-08-13,13,null
+1647,sprocket,99.99,2010-02-10,13,Our flagship product
+1648,gadget,4.00,2009-11-30,1,Our flagship product
+1649,gadget,0.25,1983-08-13,1,null
+1650,sprocket,99.99,2010-02-10,4,Our flagship product
+1651,gadget,0.25,2009-11-30,4,null
+1652,gizmo,99.99,1983-08-13,13,null
+1653,gizmo,99.99,2009-11-30,4,Connects two gizmos
+1654,gadget,0.25,2009-11-30,13,null
+1655,gadget,99.99,1983-08-13,4,null
+1656,gizmo,4.00,2009-11-30,13,Our flagship product
+1657,gadget,4.00,2010-02-10,13,null
+1658,sprocket,99.99,2009-11-30,4,Connects two gizmos
+1659,sprocket,99.99,1983-08-13,1,Our flagship product
+1660,gadget,4.00,2009-11-30,1,Connects two gizmos
+1661,sprocket,99.99,2009-11-30,13,null
+1662,gadget,99.99,2010-02-10,13,null
+1663,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1664,sprocket,99.99,1983-08-13,13,Our flagship product
+1665,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1666,sprocket,4.00,2010-02-10,4,Connects two gizmos
+1667,gizmo,4.00,1983-08-13,13,null
+1668,sprocket,4.00,2009-11-30,4,Our flagship product
+1669,gizmo,99.99,2010-02-10,1,Our flagship product
+1670,gizmo,99.99,1983-08-13,1,Our flagship product
+1671,sprocket,99.99,2010-02-10,1,Connects two gizmos
+1672,gadget,4.00,2009-11-30,4,null
+1673,gizmo,0.25,2009-11-30,4,null
+1674,gizmo,4.00,1983-08-13,4,null
+1675,gadget,0.25,1983-08-13,1,Our flagship product
+1676,sprocket,0.25,2009-11-30,4,null
+1677,gadget,99.99,2010-02-10,4,null
+1678,gadget,0.25,1983-08-13,4,Our flagship product
+1679,gizmo,99.99,2009-11-30,13,null
+1680,gizmo,4.00,2009-11-30,4,Our flagship product
+1681,gizmo,0.25,1983-08-13,4,null
+1682,gadget,99.99,1983-08-13,1,Connects two gizmos
+1683,sprocket,0.25,2010-02-10,13,Our flagship product
+1684,gizmo,4.00,2009-11-30,1,null
+1685,gadget,4.00,2009-11-30,13,Our flagship product
+1686,gadget,4.00,1983-08-13,13,Connects two gizmos
+1687,sprocket,4.00,2009-11-30,4,Our flagship product
+1688,sprocket,4.00,2009-11-30,13,Connects two gizmos
+1689,gadget,99.99,2010-02-10,1,null
+1690,sprocket,99.99,2010-02-10,1,Connects two gizmos
+1691,gizmo,99.99,2010-02-10,4,null
+1692,sprocket,4.00,2009-11-30,1,null
+1693,gadget,4.00,2010-02-10,13,null
+1694,sprocket,4.00,1983-08-13,1,null
+1695,gizmo,0.25,2010-02-10,4,Our flagship product
+1696,sprocket,99.99,1983-08-13,13,null
+1697,sprocket,0.25,2009-11-30,4,Connects two gizmos
+1698,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1699,gadget,4.00,1983-08-13,1,Our flagship product
+1700,sprocket,4.00,2009-11-30,13,null
+1701,sprocket,4.00,2009-11-30,1,Our flagship product
+1702,gizmo,99.99,1983-08-13,1,null
+1703,gizmo,4.00,2010-02-10,4,Our flagship product
+1704,gadget,0.25,2009-11-30,4,null
+1705,gadget,99.99,2009-11-30,13,null
+1706,gizmo,0.25,2009-11-30,1,Our flagship product
+1707,gizmo,99.99,1983-08-13,1,Our flagship product
+1708,gizmo,0.25,1983-08-13,13,Connects two gizmos
+1709,sprocket,0.25,2010-02-10,4,null
+1710,gadget,99.99,2009-11-30,1,Connects two gizmos
+1711,gizmo,0.25,1983-08-13,4,null
+1712,sprocket,4.00,2009-11-30,4,null
+1713,sprocket,99.99,1983-08-13,13,Connects two gizmos
+1714,gadget,4.00,1983-08-13,1,null
+1715,gadget,4.00,1983-08-13,4,Connects two gizmos
+1716,sprocket,0.25,2010-02-10,1,null
+1717,gizmo,99.99,2009-11-30,13,Our flagship product
+1718,gizmo,99.99,1983-08-13,1,Connects two gizmos
+1719,gizmo,4.00,2010-02-10,13,Our flagship product
+1720,sprocket,0.25,2009-11-30,13,Connects two gizmos
+1721,sprocket,99.99,2010-02-10,4,Our flagship product
+1722,sprocket,99.99,2010-02-10,13,null
+1723,gadget,99.99,1983-08-13,4,null
+1724,gadget,99.99,2009-11-30,4,null
+1725,gizmo,0.25,1983-08-13,4,Our flagship product
+1726,gadget,0.25,1983-08-13,13,Our flagship product
+1727,gizmo,99.99,2010-02-10,4,Our flagship product
+1728,gizmo,4.00,2009-11-30,4,Our flagship product
+1729,gizmo,99.99,2010-02-10,1,Our flagship product
+1730,sprocket,99.99,1983-08-13,1,null
+1731,gizmo,0.25,1983-08-13,1,null
+1732,gadget,0.25,1983-08-13,4,Our flagship product
+1733,sprocket,0.25,1983-08-13,13,Connects two gizmos
+1734,sprocket,0.25,2009-11-30,13,null
+1735,gadget,99.99,1983-08-13,1,Our flagship product
+1736,gizmo,4.00,2010-02-10,1,null
+1737,sprocket,0.25,2010-02-10,4,Our flagship product
+1738,gadget,99.99,2010-02-10,13,null
+1739,gizmo,0.25,2009-11-30,13,Connects two gizmos
+1740,sprocket,99.99,2010-02-10,4,Connects two gizmos
+1741,gizmo,4.00,1983-08-13,1,Our flagship product
+1742,gadget,4.00,2010-02-10,4,null
+1743,sprocket,4.00,1983-08-13,1,null
+1744,sprocket,99.99,2009-11-30,1,Connects two gizmos
+1745,sprocket,99.99,1983-08-13,4,Our flagship product
+1746,gadget,4.00,1983-08-13,13,null
+1747,sprocket,4.00,1983-08-13,1,Connects two gizmos
+1748,gadget,99.99,1983-08-13,4,Connects two gizmos
+1749,gizmo,0.25,2010-02-10,1,Our flagship product
+1750,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1751,sprocket,0.25,1983-08-13,4,null
+1752,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1753,gizmo,99.99,2010-02-10,13,null
+1754,sprocket,0.25,2009-11-30,4,Our flagship product
+1755,sprocket,4.00,2009-11-30,4,Connects two gizmos
+1756,gadget,4.00,1983-08-13,13,Our flagship product
+1757,gizmo,4.00,1983-08-13,4,Our flagship product
+1758,gadget,0.25,1983-08-13,1,null
+1759,gizmo,0.25,1983-08-13,13,Our flagship product
+1760,gadget,4.00,2010-02-10,1,Connects two gizmos
+1761,gizmo,4.00,1983-08-13,1,Our flagship product
+1762,gizmo,4.00,2009-11-30,1,Our flagship product
+1763,gadget,99.99,2010-02-10,13,Our flagship product
+1764,sprocket,99.99,1983-08-13,4,Connects two gizmos
+1765,gadget,99.99,2009-11-30,13,null
+1766,sprocket,99.99,2009-11-30,4,Our flagship product
+1767,gizmo,0.25,1983-08-13,1,null
+1768,gadget,4.00,2010-02-10,1,Connects two gizmos
+1769,sprocket,99.99,2010-02-10,13,null
+1770,sprocket,0.25,1983-08-13,4,Our flagship product
+1771,gadget,0.25,2009-11-30,13,null
+1772,gadget,4.00,2009-11-30,13,Connects two gizmos
+1773,gadget,99.99,2009-11-30,13,Connects two gizmos
+1774,gizmo,4.00,2009-11-30,13,null
+1775,gadget,99.99,2009-11-30,13,Connects two gizmos
+1776,gizmo,0.25,2010-02-10,4,Our flagship product
+1777,sprocket,99.99,2010-02-10,4,Our flagship product
+1778,sprocket,4.00,2010-02-10,4,Connects two gizmos
+1779,gizmo,4.00,2010-02-10,13,null
+1780,gadget,4.00,1983-08-13,4,null
+1781,gadget,0.25,1983-08-13,13,Our flagship product
+1782,sprocket,4.00,1983-08-13,4,Connects two gizmos
+1783,sprocket,4.00,1983-08-13,4,null
+1784,gadget,4.00,2010-02-10,13,Connects two gizmos
+1785,gizmo,4.00,1983-08-13,4,Connects two gizmos
+1786,gizmo,99.99,2009-11-30,4,Connects two gizmos
+1787,sprocket,0.25,1983-08-13,13,null
+1788,gadget,0.25,2009-11-30,4,null
+1789,gadget,4.00,2009-11-30,13,Connects two gizmos
+1790,gadget,0.25,2009-11-30,13,Our flagship product
+1791,gizmo,0.25,2010-02-10,13,Connects two gizmos
+1792,gadget,99.99,1983-08-13,13,Connects two gizmos
+1793,gadget,4.00,1983-08-13,1,Our flagship product
+1794,gizmo,99.99,1983-08-13,4,null
+1795,gadget,4.00,2010-02-10,13,null
+1796,sprocket,99.99,2010-02-10,4,Connects two gizmos
+1797,sprocket,4.00,2010-02-10,1,Our flagship product
+1798,gadget,0.25,2010-02-10,1,null
+1799,gizmo,4.00,1983-08-13,4,Our flagship product
+1800,gadget,0.25,1983-08-13,13,null
+1801,gadget,0.25,2010-02-10,13,Our flagship product
+1802,gizmo,4.00,1983-08-13,13,Connects two gizmos
+1803,gadget,99.99,2009-11-30,4,Our flagship product
+1804,gadget,4.00,2010-02-10,4,null
+1805,sprocket,4.00,2009-11-30,13,null
+1806,sprocket,99.99,2010-02-10,1,Our flagship product
+1807,sprocket,0.25,2009-11-30,1,null
+1808,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1809,gadget,99.99,1983-08-13,13,Our flagship product
+1810,gizmo,99.99,1983-08-13,13,Our flagship product
+1811,sprocket,0.25,1983-08-13,13,Connects two gizmos
+1812,gizmo,0.25,2010-02-10,4,null
+1813,gadget,4.00,2009-11-30,1,Connects two gizmos
+1814,gadget,4.00,2010-02-10,4,Connects two gizmos
+1815,sprocket,99.99,1983-08-13,1,Connects two gizmos
+1816,sprocket,99.99,1983-08-13,13,Our flagship product
+1817,gizmo,4.00,2009-11-30,1,Connects two gizmos
+1818,gizmo,0.25,2009-11-30,1,Connects two gizmos
+1819,sprocket,0.25,2010-02-10,13,Connects two gizmos
+1820,gizmo,0.25,2009-11-30,1,Connects two gizmos
+1821,gizmo,99.99,2010-02-10,4,Our flagship product
+1822,gadget,0.25,1983-08-13,13,Connects two gizmos
+1823,gizmo,4.00,1983-08-13,13,null
+1824,sprocket,0.25,2009-11-30,4,Our flagship product
+1825,sprocket,4.00,1983-08-13,13,null
+1826,gizmo,99.99,1983-08-13,1,null
+1827,gizmo,4.00,1983-08-13,4,Connects two gizmos
+1828,sprocket,0.25,2009-11-30,13,Our flagship product
+1829,gadget,99.99,2009-11-30,13,Our flagship product
+1830,gizmo,0.25,2010-02-10,4,null
+1831,gizmo,0.25,1983-08-13,1,Our flagship product
+1832,sprocket,0.25,2010-02-10,4,Our flagship product
+1833,sprocket,4.00,1983-08-13,4,Connects two gizmos
+1834,gadget,4.00,2010-02-10,4,Our flagship product
+1835,sprocket,99.99,2010-02-10,4,Our flagship product
+1836,gizmo,99.99,2010-02-10,4,Connects two gizmos
+1837,sprocket,99.99,2010-02-10,13,null
+1838,sprocket,99.99,1983-08-13,1,Our flagship product
+1839,gadget,4.00,2010-02-10,13,Our flagship product
+1840,sprocket,4.00,1983-08-13,1,Our flagship product
+1841,gadget,99.99,1983-08-13,4,null
+1842,gizmo,4.00,1983-08-13,13,null
+1843,gizmo,4.00,2009-11-30,13,null
+1844,sprocket,99.99,2009-11-30,1,null
+1845,gizmo,99.99,2010-02-10,4,Our flagship product
+1846,gizmo,99.99,2009-11-30,4,Our flagship product
+1847,gizmo,4.00,2010-02-10,13,null
+1848,gadget,4.00,2009-11-30,4,Our flagship product
+1849,gadget,0.25,2010-02-10,1,null
+1850,sprocket,0.25,1983-08-13,13,Our flagship product
+1851,gizmo,99.99,2009-11-30,13,Connects two gizmos
+1852,gizmo,4.00,2009-11-30,13,Our flagship product
+1853,gizmo,99.99,2010-02-10,4,Connects two gizmos
+1854,gadget,99.99,2009-11-30,13,Our flagship product
+1855,sprocket,99.99,2009-11-30,1,Connects two gizmos
+1856,gizmo,0.25,1983-08-13,13,Our flagship product
+1857,sprocket,0.25,2010-02-10,4,Our flagship product
+1858,gadget,99.99,2010-02-10,13,null
+1859,sprocket,99.99,2010-02-10,13,Connects two gizmos
+1860,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1861,sprocket,99.99,2010-02-10,4,Our flagship product
+1862,gadget,4.00,1983-08-13,1,Connects two gizmos
+1863,gadget,4.00,2010-02-10,1,Our flagship product
+1864,gadget,0.25,2009-11-30,1,Our flagship product
+1865,sprocket,4.00,1983-08-13,4,null
+1866,gizmo,4.00,2009-11-30,1,Our flagship product
+1867,sprocket,99.99,2010-02-10,13,Our flagship product
+1868,gizmo,4.00,1983-08-13,13,Our flagship product
+1869,gadget,99.99,2010-02-10,4,Our flagship product
+1870,gadget,4.00,1983-08-13,13,null
+1871,gadget,0.25,1983-08-13,4,Connects two gizmos
+1872,gizmo,0.25,1983-08-13,4,Our flagship product
+1873,gadget,99.99,1983-08-13,4,null
+1874,gadget,99.99,1983-08-13,1,Connects two gizmos
+1875,gadget,99.99,1983-08-13,13,Connects two gizmos
+1876,gadget,99.99,2009-11-30,4,null
+1877,gizmo,0.25,1983-08-13,13,Connects two gizmos
+1878,sprocket,99.99,1983-08-13,4,Connects two gizmos
+1879,sprocket,99.99,2010-02-10,1,Our flagship product
+1880,gizmo,0.25,1983-08-13,13,null
+1881,sprocket,0.25,1983-08-13,13,Our flagship product
+1882,gadget,0.25,2009-11-30,4,Our flagship product
+1883,gadget,4.00,2009-11-30,1,Connects two gizmos
+1884,gadget,4.00,2009-11-30,4,Our flagship product
+1885,sprocket,0.25,1983-08-13,13,Our flagship product
+1886,gizmo,99.99,2010-02-10,13,Connects two gizmos
+1887,sprocket,4.00,2010-02-10,1,Our flagship product
+1888,gizmo,0.25,2010-02-10,13,Connects two gizmos
+1889,gizmo,4.00,2009-11-30,13,Our flagship product
+1890,sprocket,4.00,1983-08-13,4,Our flagship product
+1891,gadget,0.25,2009-11-30,13,null
+1892,sprocket,99.99,1983-08-13,13,Our flagship product
+1893,gadget,0.25,2009-11-30,4,null
+1894,sprocket,4.00,1983-08-13,13,null
+1895,gadget,4.00,2010-02-10,13,null
+1896,gizmo,0.25,1983-08-13,13,null
+1897,gadget,99.99,2010-02-10,13,null
+1898,sprocket,4.00,1983-08-13,1,Our flagship product
+1899,gizmo,4.00,2009-11-30,4,Connects two gizmos
+1900,gizmo,99.99,2009-11-30,1,Connects two gizmos
+1901,gizmo,0.25,2010-02-10,4,Our flagship product
+1902,gizmo,4.00,2009-11-30,1,Connects two gizmos
+1903,gadget,99.99,2010-02-10,1,null
+1904,gizmo,4.00,2009-11-30,4,Our flagship product
+1905,gizmo,99.99,2009-11-30,1,Connects two gizmos
+1906,gadget,99.99,2009-11-30,4,Connects two gizmos
+1907,gadget,99.99,1983-08-13,1,null
+1908,sprocket,0.25,2009-11-30,13,null
+1909,sprocket,0.25,2009-11-30,13,null
+1910,gadget,4.00,2009-11-30,13,null
+1911,gadget,0.25,1983-08-13,1,null
+1912,gadget,4.00,1983-08-13,1,null
+1913,sprocket,4.00,2010-02-10,4,Connects two gizmos
+1914,gadget,99.99,2010-02-10,1,null
+1915,gadget,0.25,2009-11-30,4,Connects two gizmos
+1916,gizmo,0.25,1983-08-13,1,null
+1917,sprocket,99.99,2009-11-30,4,Connects two gizmos
+1918,sprocket,99.99,2009-11-30,1,null
+1919,gizmo,99.99,2009-11-30,4,Our flagship product
+1920,gadget,0.25,2010-02-10,13,Connects two gizmos
+1921,sprocket,99.99,2009-11-30,4,null
+1922,sprocket,4.00,1983-08-13,4,Connects two gizmos
+1923,gadget,4.00,1983-08-13,1,Our flagship product
+1924,gadget,4.00,2010-02-10,4,Our flagship product
+1925,sprocket,99.99,2010-02-10,4,Connects two gizmos
+1926,gizmo,4.00,2010-02-10,4,null
+1927,sprocket,0.25,1983-08-13,1,null
+1928,sprocket,4.00,1983-08-13,1,Our flagship product
+1929,gizmo,99.99,1983-08-13,4,Our flagship product
+1930,gadget,4.00,2009-11-30,4,null
+1931,gizmo,0.25,1983-08-13,4,Our flagship product
+1932,gadget,99.99,2009-11-30,13,null
+1933,gadget,99.99,2009-11-30,1,null
+1934,sprocket,4.00,2009-11-30,1,Connects two gizmos
+1935,gadget,0.25,2010-02-10,4,Connects two gizmos
+1936,gadget,0.25,2010-02-10,1,Connects two gizmos
+1937,gizmo,4.00,1983-08-13,1,Our flagship product
+1938,gadget,4.00,2009-11-30,13,Our flagship product
+1939,gizmo,0.25,1983-08-13,4,Connects two gizmos
+1940,sprocket,0.25,2009-11-30,1,null
+1941,gizmo,4.00,1983-08-13,1,Connects two gizmos
+1942,gizmo,0.25,2010-02-10,4,null
+1943,gizmo,4.00,2010-02-10,13,null
+1944,gadget,99.99,1983-08-13,4,Connects two gizmos
+1945,sprocket,0.25,1983-08-13,4,Connects two gizmos
+1946,gadget,4.00,2010-02-10,1,null
+1947,gizmo,4.00,2010-02-10,1,null
+1948,gizmo,0.25,2010-02-10,1,Our flagship product
+1949,sprocket,99.99,2009-11-30,4,Connects two gizmos
+1950,gizmo,0.25,2010-02-10,4,Our flagship product
+1951,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1952,gizmo,99.99,2009-11-30,13,Our flagship product
+1953,sprocket,4.00,1983-08-13,13,null
+1954,sprocket,99.99,1983-08-13,4,Our flagship product
+1955,sprocket,4.00,2010-02-10,4,null
+1956,gadget,99.99,1983-08-13,1,null
+1957,gadget,99.99,2010-02-10,4,null
+1958,gizmo,99.99,1983-08-13,13,Our flagship product
+1959,gizmo,99.99,2009-11-30,1,Connects two gizmos
+1960,sprocket,0.25,1983-08-13,1,Connects two gizmos
+1961,sprocket,4.00,2010-02-10,1,Connects two gizmos
+1962,gadget,4.00,1983-08-13,13,Connects two gizmos
+1963,gizmo,4.00,1983-08-13,1,Connects two gizmos
+1964,gizmo,99.99,2009-11-30,4,null
+1965,gadget,99.99,2009-11-30,13,Our flagship product
+1966,gizmo,4.00,2010-02-10,4,Our flagship product
+1967,sprocket,0.25,1983-08-13,4,Our flagship product
+1968,gadget,4.00,1983-08-13,4,Connects two gizmos
+1969,sprocket,99.99,2009-11-30,1,null
+1970,gizmo,99.99,1983-08-13,4,Connects two gizmos
+1971,gizmo,4.00,2010-02-10,4,null
+1972,sprocket,0.25,2009-11-30,4,Connects two gizmos
+1973,sprocket,0.25,1983-08-13,13,Our flagship product
+1974,sprocket,99.99,2010-02-10,4,Our flagship product
+1975,gadget,0.25,2009-11-30,4,Connects two gizmos
+1976,sprocket,99.99,2009-11-30,13,Our flagship product
+1977,sprocket,4.00,1983-08-13,4,Our flagship product
+1978,gizmo,99.99,2009-11-30,4,Our flagship product
+1979,gadget,0.25,2009-11-30,13,Connects two gizmos
+1980,sprocket,99.99,2010-02-10,1,Our flagship product
+1981,gizmo,0.25,2009-11-30,4,null
+1982,sprocket,99.99,1983-08-13,4,Connects two gizmos
+1983,sprocket,99.99,2009-11-30,4,null
+1984,sprocket,99.99,2010-02-10,1,null
+1985,sprocket,99.99,2010-02-10,4,null
+1986,gadget,0.25,2009-11-30,1,Our flagship product
+1987,sprocket,99.99,2009-11-30,13,null
+1988,gizmo,99.99,2009-11-30,13,Connects two gizmos
+1989,sprocket,0.25,2009-11-30,4,Our flagship product
+1990,gizmo,4.00,2010-02-10,4,null
+1991,gadget,4.00,2009-11-30,4,null
+1992,gadget,0.25,2009-11-30,13,Our flagship product
+1993,gizmo,0.25,2010-02-10,13,Our flagship product
+1994,sprocket,0.25,1983-08-13,4,Our flagship product
+1995,sprocket,4.00,2009-11-30,13,null
+1996,gizmo,4.00,2009-11-30,4,null
+1997,gadget,4.00,2010-02-10,4,Our flagship product
+1998,gizmo,4.00,2010-02-10,13,Connects two gizmos
+1999,gadget,4.00,1983-08-13,4,Connects two gizmos
+2000,gadget,4.00,2009-11-30,13,Our flagship product
+2001,sprocket,99.99,2009-11-30,13,Our flagship product
+2002,sprocket,4.00,2010-02-10,13,Connects two gizmos
+2003,gadget,4.00,2009-11-30,1,null
+2004,gizmo,99.99,1983-08-13,1,Our flagship product
+2005,sprocket,4.00,1983-08-13,1,Connects two gizmos
+2006,gadget,99.99,1983-08-13,13,null
+2007,gizmo,99.99,1983-08-13,1,null
+2008,sprocket,4.00,2010-02-10,13,null
+2009,sprocket,0.25,1983-08-13,1,null
+2010,gizmo,0.25,2009-11-30,1,null
+2011,sprocket,4.00,2010-02-10,4,Our flagship product
+2012,gadget,4.00,1983-08-13,13,Our flagship product
+2013,gizmo,99.99,1983-08-13,4,Our flagship product
+2014,gadget,4.00,2010-02-10,1,Connects two gizmos
+2015,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2016,sprocket,0.25,2009-11-30,4,Our flagship product
+2017,sprocket,99.99,2010-02-10,1,Our flagship product
+2018,gadget,0.25,1983-08-13,1,null
+2019,gizmo,4.00,2010-02-10,1,Connects two gizmos
+2020,sprocket,4.00,1983-08-13,4,Connects two gizmos
+2021,gadget,99.99,1983-08-13,1,null
+2022,gizmo,0.25,1983-08-13,13,null
+2023,sprocket,4.00,2010-02-10,13,Our flagship product
+2024,gizmo,99.99,2010-02-10,13,Our flagship product
+2025,sprocket,0.25,2009-11-30,1,Connects two gizmos
+2026,gizmo,0.25,2009-11-30,13,Connects two gizmos
+2027,gizmo,99.99,1983-08-13,4,null
+2028,sprocket,99.99,2010-02-10,1,Connects two gizmos
+2029,sprocket,4.00,2009-11-30,4,null
+2030,gadget,99.99,1983-08-13,1,null
+2031,gizmo,99.99,1983-08-13,1,Connects two gizmos
+2032,gadget,99.99,2009-11-30,13,Our flagship product
+2033,gadget,4.00,2010-02-10,1,Connects two gizmos
+2034,sprocket,99.99,1983-08-13,1,Our flagship product
+2035,gizmo,0.25,2009-11-30,13,Our flagship product
+2036,gadget,4.00,2009-11-30,1,null
+2037,sprocket,0.25,1983-08-13,13,Our flagship product
+2038,gizmo,0.25,1983-08-13,13,Connects two gizmos
+2039,sprocket,99.99,2009-11-30,1,Our flagship product
+2040,sprocket,4.00,2009-11-30,13,null
+2041,gadget,4.00,2009-11-30,4,null
+2042,sprocket,99.99,2010-02-10,1,Our flagship product
+2043,gizmo,0.25,2009-11-30,13,Our flagship product
+2044,gadget,99.99,1983-08-13,4,Our flagship product
+2045,sprocket,4.00,2010-02-10,4,Connects two gizmos
+2046,sprocket,99.99,2010-02-10,13,Our flagship product
+2047,sprocket,99.99,1983-08-13,4,Connects two gizmos
+2048,gizmo,0.25,1983-08-13,1,null
+2049,gadget,99.99,1983-08-13,13,Connects two gizmos
+2050,sprocket,99.99,1983-08-13,4,Connects two gizmos
+2051,gizmo,99.99,1983-08-13,13,Connects two gizmos
+2052,sprocket,0.25,2009-11-30,13,null
+2053,gizmo,99.99,2010-02-10,4,Connects two gizmos
+2054,gadget,0.25,1983-08-13,13,null
+2055,gadget,4.00,2009-11-30,13,Our flagship product
+2056,sprocket,99.99,1983-08-13,1,Our flagship product
+2057,gizmo,99.99,1983-08-13,13,null
+2058,gadget,99.99,2010-02-10,1,Our flagship product
+2059,sprocket,0.25,2009-11-30,4,Our flagship product
+2060,gadget,99.99,2010-02-10,1,Connects two gizmos
+2061,gizmo,0.25,1983-08-13,4,Our flagship product
+2062,gizmo,4.00,1983-08-13,13,Our flagship product
+2063,gizmo,4.00,2010-02-10,1,Our flagship product
+2064,gizmo,99.99,2009-11-30,13,null
+2065,gadget,0.25,2009-11-30,1,Connects two gizmos
+2066,gizmo,99.99,2009-11-30,4,null
+2067,gadget,4.00,2010-02-10,4,Connects two gizmos
+2068,gizmo,4.00,2010-02-10,13,null
+2069,gizmo,99.99,1983-08-13,1,Connects two gizmos
+2070,gizmo,0.25,2010-02-10,4,Our flagship product
+2071,sprocket,4.00,2010-02-10,13,Connects two gizmos
+2072,sprocket,4.00,1983-08-13,13,null
+2073,sprocket,0.25,2009-11-30,1,Connects two gizmos
+2074,gadget,4.00,2010-02-10,4,Our flagship product
+2075,gadget,0.25,2009-11-30,13,null
+2076,gizmo,99.99,2010-02-10,13,Connects two gizmos
+2077,sprocket,4.00,2009-11-30,4,Connects two gizmos
+2078,gadget,99.99,1983-08-13,1,null
+2079,gadget,99.99,2009-11-30,1,null
+2080,gizmo,4.00,2009-11-30,13,Our flagship product
+2081,gadget,99.99,1983-08-13,13,null
+2082,gadget,4.00,1983-08-13,13,Connects two gizmos
+2083,sprocket,4.00,2009-11-30,4,null
+2084,sprocket,0.25,2010-02-10,4,Our flagship product
+2085,sprocket,4.00,1983-08-13,13,null
+2086,gadget,4.00,2010-02-10,13,null
+2087,gadget,0.25,2009-11-30,1,Connects two gizmos
+2088,sprocket,4.00,1983-08-13,4,Our flagship product
+2089,gadget,99.99,1983-08-13,13,Our flagship product
+2090,gizmo,4.00,2010-02-10,13,null
+2091,gizmo,99.99,2010-02-10,1,Connects two gizmos
+2092,sprocket,4.00,2010-02-10,13,Our flagship product
+2093,gizmo,99.99,2009-11-30,13,Our flagship product
+2094,gadget,4.00,1983-08-13,13,null
+2095,sprocket,0.25,2009-11-30,13,Our flagship product
+2096,gadget,4.00,2010-02-10,4,Connects two gizmos
+2097,gadget,99.99,1983-08-13,1,Our flagship product
+2098,gadget,4.00,1983-08-13,4,Connects two gizmos
+2099,gizmo,99.99,2010-02-10,1,null
+2100,gadget,4.00,2010-02-10,13,Our flagship product
+2101,sprocket,0.25,2009-11-30,13,Connects two gizmos
+2102,gizmo,0.25,2010-02-10,13,Connects two gizmos
+2103,sprocket,4.00,2010-02-10,13,null
+2104,gadget,4.00,2010-02-10,4,Connects two gizmos
+2105,gizmo,4.00,1983-08-13,4,Our flagship product
+2106,sprocket,99.99,1983-08-13,4,Our flagship product
+2107,gizmo,4.00,2009-11-30,13,Our flagship product
+2108,gadget,4.00,2009-11-30,1,Our flagship product
+2109,gizmo,0.25,2010-02-10,1,Connects two gizmos
+2110,gizmo,0.25,2009-11-30,1,Connects two gizmos
+2111,gadget,99.99,2009-11-30,1,null
+2112,gizmo,99.99,2010-02-10,13,Our flagship product
+2113,sprocket,99.99,2009-11-30,4,Connects two gizmos
+2114,gadget,99.99,2010-02-10,1,null
+2115,gizmo,99.99,2010-02-10,4,Our flagship product
+2116,sprocket,0.25,1983-08-13,4,null
+2117,gadget,99.99,1983-08-13,1,Connects two gizmos
+2118,sprocket,0.25,2010-02-10,13,Connects two gizmos
+2119,gadget,0.25,2009-11-30,13,Connects two gizmos
+2120,sprocket,0.25,1983-08-13,13,Connects two gizmos
+2121,gadget,4.00,2009-11-30,4,Connects two gizmos
+2122,sprocket,99.99,1983-08-13,13,Connects two gizmos
+2123,gizmo,0.25,2010-02-10,13,Connects two gizmos
+2124,gizmo,4.00,2010-02-10,1,Connects two gizmos
+2125,gadget,0.25,1983-08-13,4,null
+2126,sprocket,0.25,2009-11-30,1,Our flagship product
+2127,gadget,0.25,1983-08-13,13,Connects two gizmos
+2128,gadget,4.00,1983-08-13,13,Connects two gizmos
+2129,gizmo,99.99,1983-08-13,13,Connects two gizmos
+2130,gadget,0.25,2009-11-30,13,null
+2131,sprocket,0.25,1983-08-13,13,Connects two gizmos
+2132,gizmo,0.25,1983-08-13,4,null
+2133,gadget,4.00,1983-08-13,4,null
+2134,gadget,99.99,2009-11-30,1,Connects two gizmos
+2135,sprocket,99.99,1983-08-13,1,Connects two gizmos
+2136,sprocket,4.00,2009-11-30,4,Connects two gizmos
+2137,gadget,4.00,1983-08-13,1,Connects two gizmos
+2138,gizmo,0.25,2010-02-10,13,Connects two gizmos
+2139,sprocket,0.25,2010-02-10,1,Our flagship product
+2140,gadget,0.25,1983-08-13,1,Our flagship product
+2141,gizmo,4.00,2010-02-10,1,Connects two gizmos
+2142,gizmo,99.99,2010-02-10,4,Our flagship product
+2143,sprocket,0.25,2010-02-10,13,Our flagship product
+2144,gadget,99.99,1983-08-13,4,Connects two gizmos
+2145,sprocket,0.25,2010-02-10,4,Our flagship product
+2146,gadget,99.99,1983-08-13,13,Connects two gizmos
+2147,gizmo,4.00,2010-02-10,13,null
+2148,sprocket,0.25,1983-08-13,1,Connects two gizmos
+2149,gadget,99.99,2009-11-30,13,Connects two gizmos
+2150,gizmo,0.25,2010-02-10,1,Our flagship product
+2151,gadget,4.00,1983-08-13,13,Connects two gizmos
+2152,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2153,gadget,0.25,1983-08-13,4,Our flagship product
+2154,sprocket,0.25,2010-02-10,4,null
+2155,sprocket,0.25,2009-11-30,1,Connects two gizmos
+2156,sprocket,99.99,2010-02-10,1,Connects two gizmos
+2157,sprocket,99.99,2009-11-30,13,null
+2158,gadget,0.25,1983-08-13,1,Our flagship product
+2159,sprocket,4.00,1983-08-13,1,Our flagship product
+2160,gadget,4.00,2009-11-30,1,Connects two gizmos
+2161,sprocket,99.99,2010-02-10,13,null
+2162,gizmo,4.00,1983-08-13,4,Our flagship product
+2163,gizmo,4.00,1983-08-13,4,Our flagship product
+2164,gadget,99.99,2009-11-30,13,null
+2165,gadget,4.00,2010-02-10,4,Our flagship product
+2166,gadget,0.25,2009-11-30,13,Connects two gizmos
+2167,gadget,99.99,2010-02-10,1,Our flagship product
+2168,sprocket,4.00,2009-11-30,13,null
+2169,gadget,99.99,2010-02-10,13,null
+2170,sprocket,4.00,2009-11-30,4,Connects two gizmos
+2171,gadget,4.00,2009-11-30,13,Connects two gizmos
+2172,gadget,4.00,2010-02-10,13,Our flagship product
+2173,gizmo,4.00,2009-11-30,1,null
+2174,sprocket,0.25,2009-11-30,1,null
+2175,gizmo,4.00,2010-02-10,4,Our flagship product
+2176,sprocket,99.99,2009-11-30,13,null
+2177,gizmo,0.25,1983-08-13,1,Connects two gizmos
+2178,gadget,99.99,2009-11-30,1,Our flagship product
+2179,sprocket,0.25,2010-02-10,4,Connects two gizmos
+2180,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2181,sprocket,99.99,1983-08-13,4,Our flagship product
+2182,gizmo,0.25,2010-02-10,13,null
+2183,sprocket,99.99,2009-11-30,13,null
+2184,sprocket,0.25,1983-08-13,4,null
+2185,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2186,gadget,0.25,2010-02-10,1,Connects two gizmos
+2187,gizmo,0.25,2010-02-10,1,null
+2188,gadget,4.00,2010-02-10,1,Our flagship product
+2189,gadget,99.99,2009-11-30,1,null
+2190,sprocket,99.99,1983-08-13,1,Our flagship product
+2191,gadget,99.99,2010-02-10,13,null
+2192,gizmo,4.00,2010-02-10,1,Connects two gizmos
+2193,gizmo,4.00,1983-08-13,1,Our flagship product
+2194,sprocket,4.00,1983-08-13,13,Our flagship product
+2195,sprocket,0.25,1983-08-13,1,null
+2196,sprocket,0.25,2010-02-10,13,null
+2197,sprocket,0.25,2010-02-10,13,Our flagship product
+2198,gizmo,99.99,2010-02-10,4,null
+2199,gadget,0.25,2009-11-30,13,Our flagship product
+2200,gizmo,99.99,2009-11-30,1,Connects two gizmos
+2201,gizmo,99.99,2009-11-30,13,null
+2202,gadget,99.99,2009-11-30,13,Our flagship product
+2203,sprocket,99.99,2009-11-30,4,Our flagship product
+2204,sprocket,99.99,2010-02-10,13,Connects two gizmos
+2205,gadget,99.99,1983-08-13,1,Our flagship product
+2206,sprocket,0.25,2010-02-10,13,Connects two gizmos
+2207,gizmo,0.25,1983-08-13,13,Our flagship product
+2208,sprocket,0.25,2010-02-10,1,Connects two gizmos
+2209,gizmo,0.25,1983-08-13,13,Our flagship product
+2210,gizmo,99.99,1983-08-13,4,Our flagship product
+2211,sprocket,99.99,2009-11-30,1,Our flagship product
+2212,gizmo,4.00,1983-08-13,13,Our flagship product
+2213,sprocket,99.99,2009-11-30,13,Connects two gizmos
+2214,gadget,4.00,1983-08-13,13,null
+2215,gadget,4.00,2009-11-30,1,Our flagship product
+2216,sprocket,4.00,2009-11-30,4,Our flagship product
+2217,sprocket,4.00,2009-11-30,4,Connects two gizmos
+2218,sprocket,4.00,1983-08-13,4,null
+2219,sprocket,0.25,1983-08-13,4,null
+2220,sprocket,99.99,1983-08-13,4,Our flagship product
+2221,gizmo,4.00,2010-02-10,13,Our flagship product
+2222,gadget,0.25,2010-02-10,13,Connects two gizmos
+2223,gizmo,99.99,1983-08-13,1,null
+2224,gadget,4.00,2009-11-30,1,Connects two gizmos
+2225,gizmo,0.25,2010-02-10,4,Connects two gizmos
+2226,sprocket,99.99,2010-02-10,1,Our flagship product
+2227,gizmo,0.25,2009-11-30,1,Our flagship product
+2228,gizmo,0.25,2009-11-30,4,null
+2229,sprocket,4.00,2010-02-10,4,null
+2230,gadget,0.25,2010-02-10,1,Connects two gizmos
+2231,sprocket,99.99,2009-11-30,1,null
+2232,gadget,99.99,2010-02-10,4,Connects two gizmos
+2233,gadget,99.99,2010-02-10,4,null
+2234,sprocket,4.00,2010-02-10,1,null
+2235,gadget,4.00,2009-11-30,13,Connects two gizmos
+2236,gizmo,4.00,1983-08-13,13,Our flagship product
+2237,sprocket,0.25,1983-08-13,4,Our flagship product
+2238,gadget,0.25,2009-11-30,13,Connects two gizmos
+2239,gadget,99.99,1983-08-13,1,Our flagship product
+2240,gizmo,4.00,2009-11-30,4,Connects two gizmos
+2241,gizmo,99.99,1983-08-13,4,Our flagship product
+2242,gadget,99.99,1983-08-13,13,Connects two gizmos
+2243,sprocket,4.00,2010-02-10,4,null
+2244,sprocket,99.99,1983-08-13,4,null
+2245,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2246,sprocket,0.25,2010-02-10,13,null
+2247,gizmo,99.99,2009-11-30,13,Our flagship product
+2248,sprocket,99.99,2009-11-30,4,Connects two gizmos
+2249,gadget,0.25,2010-02-10,4,Connects two gizmos
+2250,gadget,0.25,1983-08-13,4,Connects two gizmos
+2251,sprocket,0.25,2010-02-10,1,Our flagship product
+2252,gadget,4.00,1983-08-13,1,Connects two gizmos
+2253,gizmo,0.25,1983-08-13,13,Connects two gizmos
+2254,gizmo,4.00,2009-11-30,4,null
+2255,sprocket,4.00,1983-08-13,13,Our flagship product
+2256,gadget,99.99,1983-08-13,13,Connects two gizmos
+2257,gadget,0.25,1983-08-13,1,null
+2258,gizmo,99.99,2010-02-10,13,Our flagship product
+2259,gadget,4.00,2009-11-30,13,Our flagship product
+2260,gizmo,0.25,2010-02-10,1,null
+2261,gadget,0.25,1983-08-13,4,null
+2262,gizmo,0.25,2010-02-10,1,Our flagship product
+2263,gadget,99.99,2009-11-30,4,Our flagship product
+2264,sprocket,4.00,2010-02-10,1,null
+2265,sprocket,4.00,2009-11-30,13,Our flagship product
+2266,gizmo,0.25,2010-02-10,1,null
+2267,gadget,0.25,2009-11-30,13,null
+2268,gadget,0.25,2010-02-10,4,Connects two gizmos
+2269,gadget,0.25,1983-08-13,13,Our flagship product
+2270,sprocket,4.00,1983-08-13,4,null
+2271,gizmo,0.25,2009-11-30,4,Connects two gizmos
+2272,gadget,0.25,1983-08-13,4,Connects two gizmos
+2273,gadget,99.99,2010-02-10,13,Connects two gizmos
+2274,gadget,99.99,2009-11-30,1,Our flagship product
+2275,sprocket,4.00,2010-02-10,1,null
+2276,gizmo,99.99,2009-11-30,4,Our flagship product
+2277,gadget,99.99,2010-02-10,4,Connects two gizmos
+2278,gizmo,0.25,2010-02-10,1,null
+2279,sprocket,0.25,1983-08-13,13,Our flagship product
+2280,gizmo,0.25,1983-08-13,4,Our flagship product
+2281,sprocket,0.25,1983-08-13,4,Connects two gizmos
+2282,gadget,99.99,1983-08-13,4,null
+2283,gizmo,99.99,1983-08-13,4,null
+2284,gizmo,4.00,2010-02-10,4,Our flagship product
+2285,gadget,0.25,1983-08-13,1,Connects two gizmos
+2286,sprocket,99.99,1983-08-13,1,Connects two gizmos
+2287,sprocket,99.99,1983-08-13,1,null
+2288,sprocket,0.25,2010-02-10,1,Connects two gizmos
+2289,gadget,4.00,1983-08-13,13,Our flagship product
+2290,sprocket,99.99,1983-08-13,1,null
+2291,gadget,0.25,2009-11-30,13,null
+2292,sprocket,0.25,1983-08-13,1,null
+2293,sprocket,4.00,1983-08-13,4,Connects two gizmos
+2294,gadget,4.00,2010-02-10,4,null
+2295,sprocket,0.25,2009-11-30,4,null
+2296,gadget,99.99,2010-02-10,1,null
+2297,gadget,4.00,2009-11-30,4,Our flagship product
+2298,gadget,99.99,2010-02-10,1,Our flagship product
+2299,gizmo,0.25,2010-02-10,1,Our flagship product
+2300,gadget,99.99,2009-11-30,13,Our flagship product
+2301,gadget,0.25,1983-08-13,1,null
+2302,gadget,0.25,2009-11-30,1,null
+2303,gizmo,0.25,1983-08-13,13,Our flagship product
+2304,sprocket,4.00,2010-02-10,4,Connects two gizmos
+2305,gizmo,0.25,2010-02-10,13,Our flagship product
+2306,sprocket,0.25,2010-02-10,1,Our flagship product
+2307,sprocket,0.25,1983-08-13,4,null
+2308,gizmo,0.25,2010-02-10,4,Connects two gizmos
+2309,gizmo,99.99,2010-02-10,13,Connects two gizmos
+2310,gadget,99.99,2009-11-30,1,null
+2311,sprocket,0.25,2009-11-30,4,Our flagship product
+2312,gizmo,4.00,2010-02-10,13,null
+2313,sprocket,4.00,1983-08-13,4,Connects two gizmos
+2314,sprocket,99.99,2009-11-30,1,Our flagship product
+2315,gadget,99.99,2009-11-30,1,null
+2316,gadget,0.25,2009-11-30,4,null
+2317,gadget,4.00,2009-11-30,1,null
+2318,gizmo,0.25,1983-08-13,1,Our flagship product
+2319,sprocket,4.00,2010-02-10,13,null
+2320,gadget,99.99,1983-08-13,13,null
+2321,gizmo,99.99,2010-02-10,13,Our flagship product
+2322,gizmo,0.25,2009-11-30,1,null
+2323,sprocket,4.00,2010-02-10,1,Connects two gizmos
+2324,gizmo,99.99,1983-08-13,1,Connects two gizmos
+2325,gadget,4.00,2010-02-10,13,Our flagship product
+2326,sprocket,99.99,1983-08-13,13,Connects two gizmos
+2327,gizmo,0.25,2009-11-30,1,null
+2328,gadget,99.99,1983-08-13,1,Connects two gizmos
+2329,gizmo,4.00,1983-08-13,1,Connects two gizmos
+2330,sprocket,4.00,2010-02-10,13,null
+2331,gizmo,4.00,2009-11-30,1,Connects two gizmos
+2332,gizmo,99.99,1983-08-13,4,null
+2333,gizmo,0.25,2010-02-10,13,Our flagship product
+2334,gizmo,4.00,2009-11-30,13,Our flagship product
+2335,sprocket,99.99,2010-02-10,13,null
+2336,sprocket,4.00,1983-08-13,1,Connects two gizmos
+2337,gizmo,4.00,2010-02-10,4,Connects two gizmos
+2338,gadget,4.00,1983-08-13,1,null
+2339,gadget,99.99,2010-02-10,4,Connects two gizmos
+2340,gizmo,99.99,2010-02-10,1,null
+2341,gizmo,4.00,2010-02-10,4,Our flagship product
+2342,sprocket,99.99,2009-11-30,13,Our flagship product
+2343,sprocket,0.25,1983-08-13,13,null
+2344,gizmo,99.99,2010-02-10,1,Our flagship product
+2345,gadget,4.00,2009-11-30,1,Connects two gizmos
+2346,gadget,4.00,2009-11-30,4,Connects two gizmos
+2347,gadget,99.99,2010-02-10,4,Our flagship product
+2348,gadget,0.25,1983-08-13,1,Our flagship product
+2349,gizmo,99.99,2009-11-30,1,null
+2350,gadget,99.99,2010-02-10,1,null
+2351,sprocket,0.25,1983-08-13,13,Connects two gizmos
+2352,gadget,4.00,2010-02-10,1,null
+2353,gizmo,4.00,2009-11-30,4,Our flagship product
+2354,sprocket,0.25,2010-02-10,13,Connects two gizmos
+2355,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2356,gizmo,0.25,1983-08-13,13,null
+2357,gadget,0.25,2009-11-30,4,Our flagship product
+2358,gadget,0.25,2010-02-10,1,null
+2359,gizmo,0.25,1983-08-13,1,null
+2360,gizmo,0.25,2009-11-30,13,Our flagship product
+2361,gadget,0.25,2010-02-10,13,Our flagship product
+2362,gizmo,4.00,2010-02-10,1,null
+2363,sprocket,99.99,1983-08-13,13,null
+2364,gizmo,0.25,2009-11-30,13,Our flagship product
+2365,gizmo,4.00,2009-11-30,1,Connects two gizmos
+2366,sprocket,0.25,2010-02-10,13,null
+2367,gizmo,0.25,2010-02-10,13,Connects two gizmos
+2368,gadget,99.99,2010-02-10,1,Our flagship product
+2369,sprocket,0.25,2010-02-10,4,null
+2370,sprocket,0.25,1983-08-13,1,Our flagship product
+2371,gizmo,99.99,2009-11-30,1,Our flagship product
+2372,sprocket,99.99,2010-02-10,1,Connects two gizmos
+2373,gizmo,4.00,2010-02-10,13,Connects two gizmos
+2374,gizmo,4.00,2010-02-10,4,Connects two gizmos
+2375,sprocket,4.00,1983-08-13,1,Connects two gizmos
+2376,sprocket,4.00,2010-02-10,13,Connects two gizmos
+2377,sprocket,4.00,2009-11-30,13,Our flagship product
+2378,sprocket,99.99,2009-11-30,13,Connects two gizmos
+2379,gizmo,0.25,2009-11-30,13,Connects two gizmos
+2380,gizmo,99.99,2009-11-30,4,null
+2381,gizmo,4.00,1983-08-13,13,Connects two gizmos
+2382,gizmo,99.99,2010-02-10,13,Our flagship product
+2383,gizmo,99.99,1983-08-13,4,Connects two gizmos
+2384,sprocket,99.99,1983-08-13,13,Our flagship product
+2385,gadget,4.00,1983-08-13,4,null
+2386,sprocket,99.99,2010-02-10,4,Connects two gizmos
+2387,sprocket,99.99,1983-08-13,13,Connects two gizmos
+2388,gizmo,4.00,2009-11-30,13,Our flagship product
+2389,gadget,4.00,2009-11-30,4,Our flagship product
+2390,gizmo,4.00,2010-02-10,13,Connects two gizmos
+2391,sprocket,99.99,2009-11-30,1,Our flagship product
+2392,gizmo,4.00,2009-11-30,4,null
+2393,gadget,4.00,2009-11-30,13,Connects two gizmos
+2394,gizmo,99.99,1983-08-13,1,null
+2395,gizmo,0.25,2009-11-30,4,null
+2396,sprocket,4.00,2009-11-30,13,Connects two gizmos
+2397,gadget,0.25,2010-02-10,13,Our flagship product
+2398,gizmo,4.00,2010-02-10,1,Our flagship product
+2399,gadget,4.00,2009-11-30,4,Our flagship product
+2400,gadget,0.25,2009-11-30,1,Our flagship product
+2401,sprocket,0.25,2009-11-30,4,null
+2402,sprocket,99.99,2009-11-30,1,Connects two gizmos
+2403,sprocket,99.99,2010-02-10,1,Connects two gizmos
+2404,gizmo,0.25,2009-11-30,13,Connects two gizmos
+2405,gizmo,0.25,2010-02-10,13,null
+2406,gadget,99.99,1983-08-13,4,Our flagship product
+2407,gadget,99.99,1983-08-13,13,Connects two gizmos
+2408,sprocket,99.99,1983-08-13,13,null
+2409,gizmo,4.00,2010-02-10,1,Our flagship product
+2410,gadget,0.25,1983-08-13,13,null
+2411,sprocket,99.99,2010-02-10,1,Connects two gizmos
+2412,gadget,4.00,2010-02-10,4,Our flagship product
+2413,sprocket,99.99,2009-11-30,4,null
+2414,gizmo,4.00,2009-11-30,1,null
+2415,gizmo,99.99,2009-11-30,13,Our flagship product
+2416,gizmo,99.99,2010-02-10,1,Our flagship product
+2417,gizmo,0.25,1983-08-13,1,Our flagship product
+2418,sprocket,0.25,2010-02-10,13,Connects two gizmos
+2419,gadget,4.00,2010-02-10,13,Our flagship product
+2420,sprocket,99.99,2009-11-30,13,null
+2421,sprocket,0.25,2010-02-10,13,null
+2422,sprocket,99.99,1983-08-13,1,Connects two gizmos
+2423,sprocket,4.00,2010-02-10,4,Connects two gizmos
+2424,gizmo,99.99,1983-08-13,4,Connects two gizmos
+2425,gadget,4.00,2010-02-10,4,Our flagship product
+2426,gizmo,99.99,2010-02-10,13,Our flagship product
+2427,gizmo,99.99,2009-11-30,13,Connects two gizmos
+2428,gadget,4.00,2009-11-30,1,Connects two gizmos
+2429,gadget,99.99,1983-08-13,1,Connects two gizmos
+2430,gizmo,4.00,1983-08-13,13,Our flagship product
+2431,gizmo,4.00,1983-08-13,1,Our flagship product
+2432,sprocket,99.99,2010-02-10,4,Connects two gizmos
+2433,gizmo,0.25,1983-08-13,13,null
+2434,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2435,sprocket,0.25,1983-08-13,13,null
+2436,sprocket,0.25,2010-02-10,1,Connects two gizmos
+2437,sprocket,0.25,2010-02-10,1,Connects two gizmos
+2438,gadget,0.25,2009-11-30,4,null
+2439,gizmo,4.00,2010-02-10,1,Connects two gizmos
+2440,gizmo,0.25,2010-02-10,13,Our flagship product
+2441,sprocket,4.00,1983-08-13,4,null
+2442,gizmo,99.99,1983-08-13,4,null
+2443,sprocket,4.00,2009-11-30,4,Our flagship product
+2444,gadget,0.25,1983-08-13,1,Our flagship product
+2445,gizmo,99.99,2009-11-30,4,null
+2446,gadget,4.00,2010-02-10,4,Our flagship product
+2447,sprocket,99.99,2009-11-30,1,Connects two gizmos
+2448,gadget,99.99,2010-02-10,1,null
+2449,gadget,4.00,1983-08-13,1,Connects two gizmos
+2450,gadget,4.00,2010-02-10,4,Our flagship product
+2451,gadget,4.00,2009-11-30,1,null
+2452,gizmo,0.25,1983-08-13,13,null
+2453,gadget,99.99,2010-02-10,13,null
+2454,sprocket,4.00,2010-02-10,13,null
+2455,gizmo,4.00,2010-02-10,4,Connects two gizmos
+2456,sprocket,4.00,2009-11-30,13,Connects two gizmos
+2457,gadget,4.00,1983-08-13,13,null
+2458,sprocket,0.25,2010-02-10,1,Our flagship product
+2459,gadget,4.00,2010-02-10,13,null
+2460,gizmo,99.99,2009-11-30,4,Our flagship product
+2461,sprocket,99.99,2009-11-30,4,Our flagship product
+2462,gizmo,0.25,1983-08-13,13,null
+2463,gadget,0.25,2009-11-30,4,null
+2464,gadget,4.00,1983-08-13,4,Connects two gizmos
+2465,gadget,4.00,1983-08-13,1,Connects two gizmos
+2466,gadget,0.25,2010-02-10,4,Our flagship product
+2467,gadget,99.99,2009-11-30,13,null
+2468,sprocket,4.00,1983-08-13,13,Connects two gizmos
+2469,gizmo,0.25,2009-11-30,4,null
+2470,gadget,0.25,2009-11-30,1,Connects two gizmos
+2471,sprocket,0.25,1983-08-13,1,null
+2472,sprocket,4.00,2009-11-30,4,Our flagship product
+2473,sprocket,4.00,2010-02-10,4,Connects two gizmos
+2474,gadget,99.99,2009-11-30,4,Our flagship product
+2475,gadget,0.25,1983-08-13,13,null
+2476,gizmo,99.99,1983-08-13,4,Connects two gizmos
+2477,gizmo,4.00,2010-02-10,13,Our flagship product
+2478,gadget,99.99,2010-02-10,13,null
+2479,gadget,99.99,2010-02-10,4,Connects two gizmos
+2480,gizmo,99.99,2009-11-30,13,Our flagship product
+2481,sprocket,0.25,2010-02-10,13,Our flagship product
+2482,sprocket,4.00,2010-02-10,4,Our flagship product
+2483,gizmo,0.25,1983-08-13,13,null
+2484,gizmo,4.00,2009-11-30,13,Our flagship product
+2485,gadget,99.99,1983-08-13,13,Our flagship product
+2486,sprocket,0.25,2010-02-10,1,Connects two gizmos
+2487,gizmo,4.00,2010-02-10,13,null
+2488,gizmo,99.99,2009-11-30,4,Our flagship product
+2489,gadget,4.00,2009-11-30,4,Our flagship product
+2490,gizmo,99.99,2009-11-30,4,null
+2491,sprocket,4.00,2009-11-30,13,Connects two gizmos
+2492,gizmo,0.25,2010-02-10,13,Connects two gizmos
+2493,gizmo,99.99,2009-11-30,13,null
+2494,gadget,4.00,2010-02-10,1,Connects two gizmos
+2495,sprocket,4.00,1983-08-13,13,null
+2496,gizmo,0.25,2009-11-30,13,Our flagship product
+2497,gizmo,4.00,2010-02-10,4,Our flagship product
+2498,gizmo,4.00,2010-02-10,1,Our flagship product
+2499,gizmo,4.00,1983-08-13,1,Connects two gizmos
+2500,gadget,4.00,1983-08-13,13,Our flagship product
+2501,gadget,99.99,2009-11-30,4,Connects two gizmos
+2502,gizmo,4.00,1983-08-13,13,Connects two gizmos
+2503,gadget,4.00,2010-02-10,1,Connects two gizmos
+2504,gadget,99.99,1983-08-13,4,Connects two gizmos
+2505,sprocket,4.00,2009-11-30,1,null
+2506,gizmo,0.25,2010-02-10,1,null
+2507,gadget,99.99,1983-08-13,1,Our flagship product
+2508,gadget,99.99,2009-11-30,1,null
+2509,sprocket,0.25,1983-08-13,13,Connects two gizmos
+2510,gadget,4.00,2010-02-10,1,null
+2511,sprocket,99.99,2009-11-30,4,Connects two gizmos
+2512,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2513,sprocket,99.99,1983-08-13,13,Connects two gizmos
+2514,gizmo,4.00,2010-02-10,13,Our flagship product
+2515,gadget,4.00,2009-11-30,4,Connects two gizmos
+2516,gadget,4.00,1983-08-13,1,null
+2517,gadget,4.00,1983-08-13,1,null
+2518,sprocket,99.99,1983-08-13,13,Our flagship product
+2519,gadget,0.25,1983-08-13,13,Our flagship product
+2520,sprocket,0.25,2010-02-10,4,Connects two gizmos
+2521,gadget,4.00,2010-02-10,1,null
+2522,gadget,0.25,2010-02-10,1,Our flagship product
+2523,gadget,0.25,2010-02-10,13,Connects two gizmos
+2524,sprocket,4.00,1983-08-13,1,Our flagship product
+2525,gizmo,99.99,2009-11-30,13,Connects two gizmos
+2526,gadget,0.25,2009-11-30,4,null
+2527,gadget,99.99,1983-08-13,4,null
+2528,sprocket,0.25,2009-11-30,13,Connects two gizmos
+2529,gizmo,99.99,2009-11-30,4,null
+2530,gadget,0.25,1983-08-13,1,null
+2531,gadget,0.25,2009-11-30,1,Connects two gizmos
+2532,sprocket,99.99,2010-02-10,4,Our flagship product
+2533,sprocket,99.99,2009-11-30,1,null
+2534,gizmo,4.00,2010-02-10,4,null
+2535,gizmo,4.00,1983-08-13,1,null
+2536,gadget,0.25,2009-11-30,4,null
+2537,sprocket,4.00,2010-02-10,4,null
+2538,gadget,4.00,1983-08-13,4,Connects two gizmos
+2539,sprocket,4.00,1983-08-13,1,null
+2540,gizmo,99.99,2009-11-30,4,Our flagship product
+2541,gizmo,0.25,2009-11-30,13,Connects two gizmos
+2542,sprocket,4.00,1983-08-13,1,Our flagship product
+2543,sprocket,4.00,2010-02-10,1,Connects two gizmos
+2544,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2545,sprocket,99.99,1983-08-13,4,Our flagship product
+2546,gizmo,99.99,1983-08-13,13,Connects two gizmos
+2547,gizmo,0.25,2010-02-10,13,Connects two gizmos
+2548,gizmo,0.25,2009-11-30,13,null
+2549,gizmo,4.00,2010-02-10,1,null
+2550,gadget,0.25,2009-11-30,4,null
+2551,gadget,4.00,2009-11-30,13,Our flagship product
+2552,sprocket,4.00,1983-08-13,1,null
+2553,gadget,4.00,2009-11-30,1,Connects two gizmos
+2554,gadget,4.00,1983-08-13,13,Connects two gizmos
+2555,sprocket,0.25,2009-11-30,4,Our flagship product
+2556,gizmo,0.25,2009-11-30,13,Our flagship product
+2557,gizmo,99.99,2010-02-10,4,Our flagship product
+2558,sprocket,4.00,1983-08-13,13,null
+2559,sprocket,0.25,1983-08-13,4,Connects two gizmos
+2560,sprocket,4.00,2010-02-10,4,null
+2561,sprocket,99.99,2010-02-10,1,Our flagship product
+2562,gadget,99.99,2009-11-30,1,null
+2563,gizmo,99.99,1983-08-13,1,null
+2564,gizmo,0.25,2009-11-30,13,Connects two gizmos
+2565,gizmo,0.25,1983-08-13,1,null
+2566,gizmo,0.25,2009-11-30,4,Our flagship product
+2567,gizmo,99.99,1983-08-13,4,Connects two gizmos
+2568,gizmo,99.99,2010-02-10,4,Connects two gizmos
+2569,sprocket,0.25,1983-08-13,4,null
+2570,gizmo,4.00,2010-02-10,1,Connects two gizmos
+2571,gizmo,99.99,2009-11-30,1,Our flagship product
+2572,gizmo,4.00,2010-02-10,4,Connects two gizmos
+2573,gadget,0.25,2010-02-10,13,Connects two gizmos
+2574,gizmo,4.00,2010-02-10,13,null
+2575,sprocket,4.00,2010-02-10,4,null
+2576,sprocket,0.25,2010-02-10,13,null
+2577,gadget,99.99,2009-11-30,13,Our flagship product
+2578,gizmo,0.25,1983-08-13,13,Our flagship product
+2579,sprocket,4.00,2010-02-10,13,Our flagship product
+2580,gizmo,0.25,1983-08-13,4,Our flagship product
+2581,gadget,0.25,2010-02-10,4,Connects two gizmos
+2582,sprocket,99.99,2010-02-10,4,Connects two gizmos
+2583,gadget,99.99,2010-02-10,1,Our flagship product
+2584,sprocket,4.00,2009-11-30,1,Our flagship product
+2585,gadget,0.25,1983-08-13,1,Our flagship product
+2586,sprocket,4.00,2009-11-30,13,Connects two gizmos
+2587,gadget,99.99,1983-08-13,1,null
+2588,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2589,sprocket,4.00,1983-08-13,4,Connects two gizmos
+2590,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2591,sprocket,99.99,2010-02-10,13,null
+2592,gadget,99.99,2010-02-10,4,null
+2593,sprocket,4.00,2009-11-30,13,Our flagship product
+2594,gizmo,99.99,2009-11-30,4,null
+2595,gizmo,99.99,2010-02-10,13,Connects two gizmos
+2596,gadget,99.99,2009-11-30,4,null
+2597,gizmo,4.00,1983-08-13,13,Our flagship product
+2598,gadget,99.99,2009-11-30,13,Our flagship product
+2599,sprocket,0.25,1983-08-13,4,Our flagship product
+2600,gadget,0.25,2010-02-10,1,null
+2601,sprocket,4.00,2010-02-10,4,Our flagship product
+2602,gizmo,0.25,2009-11-30,13,null
+2603,gizmo,0.25,2010-02-10,1,null
+2604,gizmo,99.99,1983-08-13,4,Our flagship product
+2605,sprocket,99.99,2010-02-10,4,Our flagship product
+2606,gizmo,4.00,2010-02-10,1,null
+2607,gadget,99.99,2010-02-10,13,Our flagship product
+2608,sprocket,99.99,2009-11-30,1,null
+2609,gizmo,4.00,2010-02-10,4,Our flagship product
+2610,gadget,4.00,2009-11-30,4,null
+2611,sprocket,4.00,2009-11-30,13,Our flagship product
+2612,sprocket,99.99,2010-02-10,1,Connects two gizmos
+2613,gadget,0.25,2010-02-10,1,Our flagship product
+2614,gizmo,4.00,2010-02-10,1,Our flagship product
+2615,gizmo,99.99,1983-08-13,4,Our flagship product
+2616,gizmo,99.99,2009-11-30,4,Connects two gizmos
+2617,gadget,4.00,2009-11-30,4,null
+2618,sprocket,4.00,2009-11-30,4,Connects two gizmos
+2619,sprocket,4.00,2010-02-10,1,Our flagship product
+2620,gadget,99.99,2010-02-10,13,Our flagship product
+2621,gizmo,4.00,1983-08-13,13,null
+2622,gizmo,0.25,1983-08-13,1,null
+2623,gadget,4.00,1983-08-13,4,null
+2624,gadget,4.00,1983-08-13,13,Our flagship product
+2625,gizmo,0.25,1983-08-13,4,Our flagship product
+2626,sprocket,99.99,2010-02-10,13,null
+2627,sprocket,0.25,1983-08-13,1,Connects two gizmos
+2628,sprocket,99.99,2009-11-30,1,Our flagship product
+2629,gizmo,4.00,2009-11-30,13,Our flagship product
+2630,sprocket,4.00,2009-11-30,4,Our flagship product
+2631,gadget,0.25,2009-11-30,1,Our flagship product
+2632,gadget,99.99,1983-08-13,1,null
+2633,gizmo,99.99,1983-08-13,13,Our flagship product
+2634,gadget,4.00,1983-08-13,4,Our flagship product
+2635,sprocket,0.25,2009-11-30,1,null
+2636,gizmo,4.00,2009-11-30,4,Connects two gizmos
+2637,sprocket,4.00,2010-02-10,4,null
+2638,sprocket,4.00,2009-11-30,1,null
+2639,gadget,99.99,2010-02-10,1,Connects two gizmos
+2640,gadget,4.00,2010-02-10,13,Our flagship product
+2641,sprocket,4.00,2010-02-10,1,null
+2642,gizmo,99.99,2009-11-30,13,Connects two gizmos
+2643,gizmo,4.00,2009-11-30,1,Our flagship product
+2644,gizmo,4.00,2009-11-30,1,null
+2645,gizmo,0.25,2009-11-30,1,Connects two gizmos
+2646,gadget,4.00,1983-08-13,4,null
+2647,gizmo,0.25,1983-08-13,4,null
+2648,gizmo,0.25,1983-08-13,1,null
+2649,gizmo,0.25,1983-08-13,4,null
+2650,gadget,4.00,2009-11-30,1,null
+2651,sprocket,99.99,2010-02-10,13,Connects two gizmos
+2652,sprocket,99.99,2010-02-10,4,Connects two gizmos
+2653,sprocket,0.25,1983-08-13,13,Our flagship product
+2654,gizmo,4.00,1983-08-13,4,null
+2655,gadget,99.99,2010-02-10,4,null
+2656,gadget,4.00,1983-08-13,4,Connects two gizmos
+2657,sprocket,4.00,2010-02-10,1,Our flagship product
+2658,gizmo,99.99,1983-08-13,4,Our flagship product
+2659,gizmo,0.25,1983-08-13,4,null
+2660,gadget,4.00,2009-11-30,13,Our flagship product
+2661,gadget,99.99,2009-11-30,13,Connects two gizmos
+2662,gadget,0.25,2009-11-30,4,Connects two gizmos
+2663,gizmo,99.99,2010-02-10,13,null
+2664,gadget,0.25,2010-02-10,4,null
+2665,gizmo,99.99,2010-02-10,13,Our flagship product
+2666,gizmo,4.00,2010-02-10,1,null
+2667,sprocket,99.99,2010-02-10,13,null
+2668,sprocket,0.25,2009-11-30,4,Our flagship product
+2669,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2670,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2671,gadget,0.25,2009-11-30,1,Our flagship product
+2672,gadget,4.00,2010-02-10,4,Our flagship product
+2673,gadget,4.00,2009-11-30,4,null
+2674,gadget,4.00,2009-11-30,1,Connects two gizmos
+2675,sprocket,99.99,2009-11-30,13,null
+2676,sprocket,99.99,2009-11-30,4,Our flagship product
+2677,gadget,99.99,1983-08-13,1,Connects two gizmos
+2678,gadget,0.25,1983-08-13,1,null
+2679,gizmo,0.25,1983-08-13,1,null
+2680,gizmo,4.00,2009-11-30,1,Connects two gizmos
+2681,sprocket,99.99,2009-11-30,13,null
+2682,gizmo,99.99,2009-11-30,1,Our flagship product
+2683,sprocket,0.25,1983-08-13,4,null
+2684,gadget,99.99,2009-11-30,4,null
+2685,gadget,99.99,2009-11-30,13,Connects two gizmos
+2686,gadget,0.25,2009-11-30,13,null
+2687,sprocket,4.00,2010-02-10,4,null
+2688,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2689,gizmo,4.00,2010-02-10,13,Connects two gizmos
+2690,gadget,0.25,2010-02-10,13,Connects two gizmos
+2691,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2692,gadget,0.25,2010-02-10,4,Our flagship product
+2693,sprocket,99.99,2009-11-30,1,Connects two gizmos
+2694,gadget,99.99,2010-02-10,4,Connects two gizmos
+2695,gadget,99.99,1983-08-13,4,Our flagship product
+2696,gizmo,4.00,1983-08-13,13,Our flagship product
+2697,sprocket,99.99,1983-08-13,1,Our flagship product
+2698,sprocket,0.25,2010-02-10,4,null
+2699,gadget,4.00,2010-02-10,13,Connects two gizmos
+2700,gadget,0.25,2009-11-30,1,Our flagship product
+2701,gizmo,99.99,2009-11-30,13,Connects two gizmos
+2702,gizmo,99.99,1983-08-13,4,null
+2703,gizmo,0.25,2009-11-30,1,Connects two gizmos
+2704,sprocket,0.25,2010-02-10,4,Connects two gizmos
+2705,gizmo,0.25,2009-11-30,4,null
+2706,gizmo,99.99,2009-11-30,4,Our flagship product
+2707,sprocket,4.00,1983-08-13,1,Our flagship product
+2708,gadget,4.00,2009-11-30,4,null
+2709,sprocket,0.25,2010-02-10,13,null
+2710,gizmo,4.00,2010-02-10,4,Our flagship product
+2711,gadget,0.25,2009-11-30,4,null
+2712,gadget,99.99,2009-11-30,13,Our flagship product
+2713,sprocket,99.99,2010-02-10,13,Our flagship product
+2714,gizmo,4.00,1983-08-13,13,null
+2715,gadget,0.25,1983-08-13,13,null
+2716,sprocket,4.00,1983-08-13,1,null
+2717,gadget,99.99,2009-11-30,1,Our flagship product
+2718,sprocket,0.25,2010-02-10,13,Our flagship product
+2719,sprocket,4.00,1983-08-13,13,Connects two gizmos
+2720,gizmo,0.25,1983-08-13,1,Connects two gizmos
+2721,gizmo,0.25,2010-02-10,1,Connects two gizmos
+2722,gizmo,4.00,1983-08-13,1,Our flagship product
+2723,sprocket,99.99,2010-02-10,13,Our flagship product
+2724,gizmo,0.25,2010-02-10,13,null
+2725,sprocket,99.99,1983-08-13,1,Our flagship product
+2726,gizmo,99.99,2009-11-30,1,Our flagship product
+2727,gizmo,4.00,2010-02-10,13,Connects two gizmos
+2728,sprocket,99.99,1983-08-13,13,Connects two gizmos
+2729,sprocket,0.25,2009-11-30,4,Connects two gizmos
+2730,gadget,99.99,2009-11-30,1,Our flagship product
+2731,sprocket,99.99,1983-08-13,1,Connects two gizmos
+2732,sprocket,0.25,2010-02-10,13,Our flagship product
+2733,gizmo,4.00,2010-02-10,4,Our flagship product
+2734,gizmo,0.25,2009-11-30,4,Our flagship product
+2735,gizmo,0.25,2010-02-10,1,Our flagship product
+2736,sprocket,4.00,1983-08-13,4,Connects two gizmos
+2737,gadget,0.25,2009-11-30,4,Our flagship product
+2738,sprocket,99.99,2010-02-10,13,Connects two gizmos
+2739,sprocket,0.25,1983-08-13,1,Connects two gizmos
+2740,gizmo,4.00,2010-02-10,13,Our flagship product
+2741,sprocket,99.99,2009-11-30,13,Our flagship product
+2742,sprocket,0.25,1983-08-13,13,Our flagship product
+2743,sprocket,4.00,2010-02-10,4,Our flagship product
+2744,sprocket,0.25,1983-08-13,13,null
+2745,gadget,4.00,1983-08-13,1,Connects two gizmos
+2746,gizmo,99.99,1983-08-13,13,null
+2747,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2748,gadget,0.25,2009-11-30,1,null
+2749,sprocket,99.99,2009-11-30,13,Our flagship product
+2750,gadget,99.99,2009-11-30,13,Connects two gizmos
+2751,gadget,4.00,1983-08-13,1,Connects two gizmos
+2752,sprocket,0.25,2010-02-10,4,Our flagship product
+2753,sprocket,99.99,2009-11-30,4,null
+2754,sprocket,99.99,2010-02-10,1,null
+2755,gizmo,0.25,1983-08-13,4,null
+2756,gadget,99.99,1983-08-13,13,Our flagship product
+2757,sprocket,0.25,2009-11-30,1,null
+2758,sprocket,4.00,1983-08-13,4,Our flagship product
+2759,gizmo,99.99,2009-11-30,4,null
+2760,gizmo,99.99,1983-08-13,13,null
+2761,gizmo,0.25,2010-02-10,4,Our flagship product
+2762,sprocket,0.25,2010-02-10,13,Connects two gizmos
+2763,sprocket,4.00,2009-11-30,1,Our flagship product
+2764,gizmo,99.99,2009-11-30,1,null
+2765,sprocket,99.99,2009-11-30,4,Our flagship product
+2766,gadget,99.99,2009-11-30,1,Our flagship product
+2767,gadget,99.99,2010-02-10,1,null
+2768,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2769,gadget,99.99,2009-11-30,4,Connects two gizmos
+2770,gizmo,99.99,2009-11-30,13,null
+2771,sprocket,99.99,2010-02-10,1,null
+2772,gizmo,4.00,2009-11-30,1,Our flagship product
+2773,gizmo,0.25,2010-02-10,4,null
+2774,gizmo,0.25,1983-08-13,4,Our flagship product
+2775,sprocket,99.99,1983-08-13,4,Our flagship product
+2776,gadget,4.00,2010-02-10,4,null
+2777,gizmo,4.00,2009-11-30,4,null
+2778,sprocket,99.99,2010-02-10,13,Connects two gizmos
+2779,gadget,0.25,2009-11-30,13,Connects two gizmos
+2780,gizmo,99.99,2009-11-30,1,Our flagship product
+2781,sprocket,4.00,2010-02-10,1,Our flagship product
+2782,gadget,0.25,1983-08-13,4,Our flagship product
+2783,gadget,99.99,1983-08-13,4,Our flagship product
+2784,gizmo,99.99,1983-08-13,4,null
+2785,sprocket,0.25,1983-08-13,13,Connects two gizmos
+2786,gadget,4.00,2010-02-10,4,null
+2787,gizmo,99.99,1983-08-13,1,Connects two gizmos
+2788,sprocket,99.99,2010-02-10,4,null
+2789,gadget,0.25,2009-11-30,1,null
+2790,gizmo,4.00,2010-02-10,4,Connects two gizmos
+2791,gizmo,4.00,1983-08-13,4,Our flagship product
+2792,gizmo,0.25,2009-11-30,1,Connects two gizmos
+2793,gadget,99.99,2009-11-30,1,null
+2794,sprocket,99.99,2009-11-30,13,Our flagship product
+2795,sprocket,4.00,1983-08-13,1,Connects two gizmos
+2796,gadget,4.00,2010-02-10,13,Connects two gizmos
+2797,sprocket,0.25,2009-11-30,1,Our flagship product
+2798,gizmo,4.00,1983-08-13,4,Our flagship product
+2799,sprocket,4.00,2010-02-10,13,Our flagship product
+2800,sprocket,4.00,2009-11-30,4,Our flagship product
+2801,gadget,4.00,2009-11-30,1,Our flagship product
+2802,gizmo,4.00,2009-11-30,4,Our flagship product
+2803,gadget,99.99,2009-11-30,1,null
+2804,gadget,4.00,2009-11-30,13,Our flagship product
+2805,gizmo,4.00,1983-08-13,1,Our flagship product
+2806,sprocket,0.25,2010-02-10,13,null
+2807,sprocket,0.25,2010-02-10,4,Our flagship product
+2808,gadget,4.00,2010-02-10,13,Connects two gizmos
+2809,gadget,0.25,1983-08-13,1,null
+2810,gadget,4.00,1983-08-13,4,Our flagship product
+2811,gadget,99.99,2009-11-30,4,Our flagship product
+2812,gizmo,0.25,2010-02-10,1,Connects two gizmos
+2813,sprocket,99.99,2009-11-30,1,Connects two gizmos
+2814,sprocket,0.25,2010-02-10,4,Our flagship product
+2815,gadget,99.99,2010-02-10,1,Our flagship product
+2816,gizmo,4.00,2010-02-10,13,Connects two gizmos
+2817,gizmo,0.25,2010-02-10,13,null
+2818,sprocket,4.00,2010-02-10,4,Connects two gizmos
+2819,gadget,4.00,1983-08-13,13,Connects two gizmos
+2820,gadget,4.00,2010-02-10,4,null
+2821,gizmo,4.00,2010-02-10,13,Our flagship product
+2822,sprocket,0.25,2009-11-30,4,null
+2823,sprocket,4.00,2010-02-10,1,Our flagship product
+2824,sprocket,4.00,1983-08-13,4,Our flagship product
+2825,gizmo,0.25,2010-02-10,4,null
+2826,sprocket,99.99,2010-02-10,1,Our flagship product
+2827,gadget,99.99,2010-02-10,4,Connects two gizmos
+2828,gizmo,0.25,2009-11-30,13,null
+2829,sprocket,99.99,1983-08-13,1,Connects two gizmos
+2830,gadget,99.99,2010-02-10,4,Connects two gizmos
+2831,sprocket,4.00,1983-08-13,4,null
+2832,gizmo,4.00,2010-02-10,4,null
+2833,gizmo,99.99,2010-02-10,13,null
+2834,gizmo,99.99,2010-02-10,4,Connects two gizmos
+2835,gizmo,0.25,2010-02-10,4,Connects two gizmos
+2836,sprocket,4.00,2009-11-30,1,null
+2837,gadget,4.00,2009-11-30,1,Connects two gizmos
+2838,sprocket,4.00,2010-02-10,4,Connects two gizmos
+2839,sprocket,0.25,2010-02-10,1,null
+2840,sprocket,0.25,2010-02-10,4,Connects two gizmos
+2841,sprocket,99.99,2009-11-30,1,Our flagship product
+2842,gadget,99.99,2009-11-30,13,Our flagship product
+2843,gizmo,4.00,2009-11-30,13,Our flagship product
+2844,gadget,4.00,1983-08-13,4,Our flagship product
+2845,sprocket,0.25,2010-02-10,13,null
+2846,gizmo,99.99,2009-11-30,4,Connects two gizmos
+2847,sprocket,4.00,1983-08-13,4,null
+2848,gizmo,0.25,1983-08-13,4,Our flagship product
+2849,gadget,99.99,2009-11-30,13,Our flagship product
+2850,sprocket,99.99,2010-02-10,4,Our flagship product
+2851,gizmo,99.99,2010-02-10,4,Connects two gizmos
+2852,sprocket,99.99,2009-11-30,4,Our flagship product
+2853,sprocket,4.00,2010-02-10,4,Our flagship product
+2854,sprocket,4.00,1983-08-13,13,null
+2855,gadget,99.99,2009-11-30,1,null
+2856,gizmo,0.25,2010-02-10,13,Our flagship product
+2857,sprocket,0.25,2009-11-30,4,Our flagship product
+2858,gizmo,4.00,2010-02-10,13,Our flagship product
+2859,gizmo,99.99,2010-02-10,4,null
+2860,sprocket,99.99,2009-11-30,13,Connects two gizmos
+2861,gadget,99.99,2010-02-10,1,Connects two gizmos
+2862,gizmo,99.99,1983-08-13,1,null
+2863,gizmo,4.00,2009-11-30,13,null
+2864,gadget,0.25,2009-11-30,1,Our flagship product
+2865,gizmo,0.25,2010-02-10,4,null
+2866,gizmo,4.00,1983-08-13,4,Connects two gizmos
+2867,gadget,99.99,1983-08-13,4,Connects two gizmos
+2868,gizmo,4.00,2010-02-10,1,Connects two gizmos
+2869,gadget,99.99,2010-02-10,1,null
+2870,gizmo,99.99,1983-08-13,4,Our flagship product
+2871,sprocket,0.25,2009-11-30,1,null
+2872,gadget,4.00,2009-11-30,13,Connects two gizmos
+2873,gizmo,4.00,1983-08-13,1,null
+2874,gadget,99.99,1983-08-13,4,Connects two gizmos
+2875,gadget,0.25,2009-11-30,4,null
+2876,gadget,4.00,2009-11-30,4,Our flagship product
+2877,gizmo,4.00,2010-02-10,4,Our flagship product
+2878,gadget,0.25,1983-08-13,13,null
+2879,gadget,0.25,1983-08-13,13,Connects two gizmos
+2880,gizmo,99.99,2010-02-10,13,Connects two gizmos
+2881,gadget,99.99,2010-02-10,13,Connects two gizmos
+2882,sprocket,0.25,2009-11-30,13,Connects two gizmos
+2883,gizmo,4.00,2009-11-30,1,Our flagship product
+2884,gizmo,99.99,2010-02-10,4,null
+2885,sprocket,4.00,1983-08-13,13,Our flagship product
+2886,sprocket,99.99,1983-08-13,4,null
+2887,sprocket,4.00,1983-08-13,13,Our flagship product
+2888,sprocket,99.99,2010-02-10,13,Connects two gizmos
+2889,sprocket,4.00,2009-11-30,1,Our flagship product
+2890,gadget,0.25,1983-08-13,1,Connects two gizmos
+2891,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2892,gadget,99.99,2009-11-30,13,Our flagship product
+2893,gizmo,4.00,2009-11-30,4,Our flagship product
+2894,gizmo,0.25,1983-08-13,1,Connects two gizmos
+2895,gadget,4.00,2009-11-30,4,null
+2896,gadget,4.00,2010-02-10,13,Our flagship product
+2897,gizmo,4.00,2010-02-10,13,null
+2898,gadget,0.25,1983-08-13,13,Connects two gizmos
+2899,sprocket,0.25,2009-11-30,1,null
+2900,gizmo,99.99,2010-02-10,1,Connects two gizmos
+2901,gizmo,0.25,2010-02-10,13,Our flagship product
+2902,gizmo,0.25,2010-02-10,4,Connects two gizmos
+2903,gizmo,0.25,2010-02-10,13,null
+2904,gizmo,0.25,2009-11-30,1,null
+2905,gizmo,4.00,2009-11-30,13,Our flagship product
+2906,gadget,0.25,2009-11-30,1,Connects two gizmos
+2907,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2908,gizmo,0.25,1983-08-13,4,Our flagship product
+2909,gizmo,4.00,1983-08-13,1,Our flagship product
+2910,gizmo,0.25,1983-08-13,13,Our flagship product
+2911,sprocket,4.00,2010-02-10,1,null
+2912,gadget,4.00,1983-08-13,4,Our flagship product
+2913,gadget,99.99,1983-08-13,13,Connects two gizmos
+2914,sprocket,0.25,2010-02-10,4,Connects two gizmos
+2915,sprocket,4.00,1983-08-13,1,Our flagship product
+2916,sprocket,99.99,2009-11-30,4,Connects two gizmos
+2917,sprocket,99.99,2009-11-30,1,Our flagship product
+2918,gadget,0.25,2010-02-10,1,Our flagship product
+2919,gadget,99.99,1983-08-13,4,Our flagship product
+2920,gadget,0.25,2009-11-30,13,Our flagship product
+2921,gadget,0.25,1983-08-13,4,Connects two gizmos
+2922,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2923,sprocket,0.25,2010-02-10,13,null
+2924,sprocket,0.25,2010-02-10,13,Our flagship product
+2925,sprocket,4.00,2010-02-10,1,Our flagship product
+2926,gizmo,4.00,1983-08-13,13,Connects two gizmos
+2927,gadget,0.25,2009-11-30,13,null
+2928,sprocket,0.25,1983-08-13,13,Our flagship product
+2929,gadget,99.99,2010-02-10,1,null
+2930,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2931,gadget,99.99,2010-02-10,13,Our flagship product
+2932,gadget,4.00,2009-11-30,4,null
+2933,gadget,4.00,1983-08-13,4,Connects two gizmos
+2934,gizmo,4.00,2010-02-10,13,null
+2935,gizmo,4.00,1983-08-13,1,Connects two gizmos
+2936,sprocket,4.00,2010-02-10,13,Connects two gizmos
+2937,gadget,99.99,2009-11-30,13,Connects two gizmos
+2938,gadget,0.25,1983-08-13,4,null
+2939,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2940,gadget,0.25,2010-02-10,4,Our flagship product
+2941,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2942,gadget,4.00,2010-02-10,1,null
+2943,gizmo,99.99,2009-11-30,4,null
+2944,gadget,4.00,2009-11-30,4,Our flagship product
+2945,sprocket,4.00,2010-02-10,13,Connects two gizmos
+2946,gizmo,4.00,2009-11-30,13,Connects two gizmos
+2947,gadget,0.25,1983-08-13,1,Our flagship product
+2948,sprocket,4.00,2009-11-30,1,Connects two gizmos
+2949,gadget,99.99,1983-08-13,13,Our flagship product
+2950,sprocket,4.00,1983-08-13,13,null
+2951,gadget,4.00,1983-08-13,4,Our flagship product
+2952,sprocket,99.99,2009-11-30,13,Our flagship product
+2953,gadget,0.25,1983-08-13,4,null
+2954,gizmo,4.00,2010-02-10,4,null
+2955,sprocket,0.25,2010-02-10,1,Our flagship product
+2956,sprocket,0.25,2010-02-10,4,null
+2957,sprocket,99.99,1983-08-13,13,Our flagship product
+2958,gizmo,4.00,2010-02-10,4,Our flagship product
+2959,gizmo,0.25,2009-11-30,1,Connects two gizmos
+2960,sprocket,4.00,2010-02-10,13,null
+2961,sprocket,4.00,1983-08-13,1,null
+2962,sprocket,4.00,2010-02-10,13,null
+2963,sprocket,0.25,1983-08-13,13,null
+2964,gadget,4.00,2009-11-30,13,null
+2965,sprocket,99.99,2010-02-10,4,Our flagship product
+2966,gadget,4.00,2010-02-10,1,Our flagship product
+2967,sprocket,0.25,2009-11-30,1,Connects two gizmos
+2968,gadget,0.25,2009-11-30,1,Connects two gizmos
+2969,gizmo,99.99,1983-08-13,1,Our flagship product
+2970,gizmo,99.99,2009-11-30,4,Connects two gizmos
+2971,sprocket,0.25,1983-08-13,13,Connects two gizmos
+2972,gizmo,4.00,1983-08-13,1,Connects two gizmos
+2973,gizmo,99.99,1983-08-13,4,Our flagship product
+2974,gizmo,99.99,1983-08-13,1,Connects two gizmos
+2975,gadget,0.25,2009-11-30,13,null
+2976,gizmo,99.99,2010-02-10,13,Connects two gizmos
+2977,gadget,99.99,2009-11-30,4,Our flagship product
+2978,gadget,0.25,1983-08-13,13,Our flagship product
+2979,gadget,99.99,1983-08-13,13,Our flagship product
+2980,gizmo,4.00,2009-11-30,4,Our flagship product
+2981,gadget,99.99,2009-11-30,4,null
+2982,sprocket,4.00,2009-11-30,1,Our flagship product
+2983,gadget,0.25,2010-02-10,13,Connects two gizmos
+2984,gizmo,0.25,2009-11-30,4,Connects two gizmos
+2985,sprocket,4.00,1983-08-13,1,Our flagship product
+2986,gadget,99.99,2010-02-10,4,Connects two gizmos
+2987,gizmo,99.99,1983-08-13,13,null
+2988,sprocket,99.99,2009-11-30,4,Our flagship product
+2989,gizmo,99.99,1983-08-13,4,Our flagship product
+2990,gizmo,0.25,2009-11-30,4,Connects two gizmos
+2991,gadget,4.00,2010-02-10,13,null
+2992,sprocket,4.00,1983-08-13,4,Our flagship product
+2993,gizmo,0.25,1983-08-13,4,Connects two gizmos
+2994,gizmo,99.99,2009-11-30,4,null
+2995,sprocket,0.25,1983-08-13,13,Connects two gizmos
+2996,gadget,99.99,2010-02-10,1,Our flagship product
+2997,sprocket,99.99,2010-02-10,4,Our flagship product
+2998,sprocket,99.99,1983-08-13,4,Connects two gizmos
+2999,gadget,99.99,2010-02-10,4,Our flagship product
+3000,sprocket,0.25,2009-11-30,4,Our flagship product
