@@ -6,7 +6,6 @@
     - SQOOP downloaded from http://mirrors.koehn.com/apache/sqoop/1.4.6/sqoop-1.4.6.bin__hadoop-2.0.4-alpha.tar.gz
     - Run the following command to unzip the downloaded tar:
          tar -xvf sqoop-1.4.6.bin__hadoop-2.0.4-alpha.tar.gz
-    - Exported the SQOOP_HOME in ~./bashrc file
     - Configured information of ./bashrc file looks like this or something else depending on the location sqoop file has been placed:
         export JAVA_HOME=/usr
         export HADOOP_HOME=/home/vagrant/hadoop-2.6.5
@@ -62,7 +61,6 @@
 # Output Step 3
 
     - After sucessfull completion we would have 5000 random records imported in SQOOP
-    - Also can be infered from part-m-00000 file attached
     - Also can be infered from part-m-00000-3 file attached
     
 ![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/3.png)
