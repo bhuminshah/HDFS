@@ -32,7 +32,7 @@
 
     - After sucessfull completion we would have a database created with name as 'hadoopguide' and a table created with name 'widgets'
 
-![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/Part_1-4/1.png)
+![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/1.png)
         
 # Step 2
 
@@ -46,7 +46,7 @@
 
     - After sucessfull completion we would have 5000 random records (from textbook) inserted in table widgets
 
-![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/Part_1-4/2.png)
+![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/2.png)
 
 
 # Step 3
@@ -63,7 +63,7 @@
     - After sucessfull completion we would have 5000 random records imported in SQOOP
     - Also can be infered from part-m-00000-3 file attached
     
-![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/Part_1-4/3.png)
+![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/3.png)
 
 # Step 4
 
@@ -79,5 +79,5 @@
     - After sucessfull completion we would have records from id = 1000 to 3000 imported in SQOOP
     - Also can be infered from part-m-00000-4 file attached
 
-![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/Part_1-4/4.png)
+![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/4.png)
 
