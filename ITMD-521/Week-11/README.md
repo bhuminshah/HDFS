@@ -81,3 +81,32 @@
 
 ![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/4.png)
 
+# Step 5: Working with Imported data
+
+    - Running a hadoop job on imported data through SQOOP
+    - Issue the following command to make the script executable and then run the script
+
+# Assumtions Step5:
+
+    - Script and java files must be in the same folder while executing
+    
+##  Commands
+    $ chmod 777 step-5.sh
+    $ hadoop fs -rm -r /user/vagrant/maxwidget
+    $ ./step-5.sh
+    
+    
+# Output Step 5
+
+    - This script would do the following:
+        - Rename class name to Widget
+        - Complie Java files
+        - Create a jar file using the compiled java and class files
+        - Remove any directory in hadoop syste in the following path: /user/vagrant/maxwidget
+        - Run job on the data imported from MySQL
+        - Display result of part-r-00000
+    - After sucessfull completion we would have records our complied jar run on the datanode and result would be prodcued i.e. Max Widget id
+    - Also can be infered from part-r-00000 file attached
+
+![Result image](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-11/5.png)
+
