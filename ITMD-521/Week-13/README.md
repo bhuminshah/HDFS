@@ -73,7 +73,7 @@
     
         cat part* > Result_1.txt
         
-# Highest and lowest product price in each category
+# Highest and lowest product price in each category and saving as 'Result_2.avro'
 
     - Use the following commands to find the highest and lowest product price in each category
     
