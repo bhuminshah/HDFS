@@ -125,6 +125,10 @@
     
         $ cat part* > Result_1.txt
         
+# Highest and lowest product price in each category
+
+    -
+        
     
 # Output Step 1
 
