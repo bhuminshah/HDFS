@@ -93,11 +93,16 @@
 
 # Top 10 products prices in each category and saving as 'Result_1.txt'
 
+    - Casting category_id as a Float
+    
+        >   val cat = categories.withColumn("category_id", 'category_id.cast("Float"))
+        >   val prod = products.withColumn("_4", '_4.cast("Float"))
+        
     - Joining Categories and Products tables using the category_id as key
     
-        > val DFJoin = categories.join(products, categories("category_id") === products("_2"))
+        > val DFJoin = cat.join(prod, cat("category_id") === products("_2"))
 
-    - Sequencing categories in ascending order
+    - Sequencing categories in descending order
     
         > val DFordered = Window.partitionBy($"category_id").orderBy($"_4".desc)
     
@@ -127,7 +132,49 @@
         
 # Highest and lowest product price in each category
 
-    -
+    - Casting category_id as a Float
         
+        >   val cat = categories.withColumn("category_id", 'category_id.cast("Float"))
+        >   val prod = products.withColumn("_4", '_4.cast("Float"))
+        
+    - Joining Categories and Products tables using the category_id as key
+        
+        > val DFJoin = cat.join(prod, cat("category_id") === products("_2"))
+        
+    - Sequencing categories in descending order
+        
+        > val DForderedDesc = Window.partitionBy($"category_id").orderBy($"_4".desc)
     
+    - Sequencing categories in descending order
+    
+        > val DForderedAsc = Window.partitionBy($"category_id").orderBy($"_4".asc)
+    
+    - Joining tables to select row with Hightest price
+    
+        > val DFmax = DFJoin.withColumn("row_num",row_number.over(DFordered)).where($"row_num" === 1).drop("row_num")
+        
+    - Joining tables to select row with Lowest price
 
+        > val DFmin = DFJoin.withColumn("row_num",row_number.over(DForderedAsc)).where($"row_num" === 1).drop("row_num")
+        
+    - Selecting columns: Category Name, Highest Product Name and Highest Product Price
+    
+        > val DFmaxSel = DFmax.select($"category_name",$"_3",$"_4")
+        > val DFminSel = DFmin.select($"category_name",$"_3",$"_4")
+        
+    - Renaming columns
+    
+        > val DFmaxName = DFmaxSel.withColumnRenamed("category_name","Category Name").withColumnRenamed("_3","Highest Product Name").withColumnRenamed("_4","Highest Product Price")
+        > val DFminName = DFminSel.withColumnRenamed("category_name","Category Name").withColumnRenamed("_3","Lowest Product Name").withColumnRenamed("_4","Lowest Product Price")
+        
+    - Joining Maximum and Minimum
+    
+        > val result_2 = DFmaxName.join(DFminName, "Category_Name")
+        
+    - Converting file as Avro
+    
+        > result_2.write.avro("Result_2")
+        
+    - Converting output of Spark in Avro
+    
+        $ cat part* > Result_2.avro
