@@ -33,8 +33,8 @@
     
         hadoop fs -mkdir -p categories
         hadoop fs -mkdir -p products
-        hadoop fs -copyFromLocal /vagrant/home/categories/categories.avro /user/vagrant/categories/
-        hadoop fs -copyFromLocal /vagrant/home/products/products.avro /user/vagrant/products/
+        hadoop fs -copyFromLocal /vagrant/data/categories/categories.avro /user/vagrant/categories/
+        hadoop fs -copyFromLocal /vagrant/data/products/products.avro /user/vagrant/products/
         
     - script and scala files should be in the same folder in spark directory
        
