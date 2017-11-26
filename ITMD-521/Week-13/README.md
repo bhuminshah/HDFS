@@ -262,8 +262,8 @@
     val DFminSel = DFmin.select($"category_name",$"_3",$"_4")
     
     //Renaming columns
-    val DFmaxName = DFmaxSel.withColumnRenamed("category_name","Category Name").withColumnRenamed("_3","Highest Product Name").withColumnRenamed("_4","Highest Product Price")
-    val DFminName = DFminSel.withColumnRenamed("category_name","Category Name").withColumnRenamed("_3","Lowest Product Name").withColumnRenamed("_4","Lowest Product Price")
+    val DFmaxName = DFmaxSel.withColumnRenamed("category_name","Category_Name").withColumnRenamed("_3","Highest_Product_Name").withColumnRenamed("_4","Highest_Product_Price")
+    val DFminName = DFminSel.withColumnRenamed("category_name","Category_Name").withColumnRenamed("_3","Lowest_Product_Name").withColumnRenamed("_4","Lowest_Product_Price")
     
     //Joining Maximum and Minimum
     val result_2 = DFmaxName.join(DFminName, "Category_Name")
@@ -276,6 +276,8 @@
     
     //Linux Command: Converting output of Spark in Avro
     $ cat part* > Result_2.avro
+    
+cp itmd521/new_xenial64/data/part-g.sh ~/Documents/GitHub/bshah40/ITMD-521/Week-13/code/
     
     
     
