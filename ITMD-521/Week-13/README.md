@@ -22,7 +22,7 @@
         $ps -ef | grep spark-shell
         $kill -9 "Spark Shell Process ID output from previous command"
        
-    - Avro files are in the local Hadoop file system under the following location using following commans:
+    - Avro files are in the local Hadoop file system under the following location using following commands:
     
     Location on local file system:
     
