@@ -3,9 +3,9 @@
 # Test 1: Without combiner and intermediate compression
 
 
-![Test 1 result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/image/1.1.png)
+![Test 1 result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/1.1.png)
 
-    - From the above result set to 
+    - From the above result set to
 
         
 # Filtering product price less than 100 and saving as 'Result_0.txt'
