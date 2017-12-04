@@ -27,9 +27,6 @@
     - In this test we are using file formarts of txt, gzip and bzip and working on with combiner and with intermediate compression
     - As inferred from the image, y-axis is the duration, x-axis is the file formats and different lines show different reducers
     - Here, our key-value pair is of year and maximum temperature both in the Mapper and Reducer phase
-
-## Analysis
-    -
     
 
 ![Test 2: 1 Reducer result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/2.1.1.png)
@@ -38,4 +35,9 @@
 
 ![Test 2: 4 Reducer result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/2.1.4.png)
 
-![Test 2: 8 Reducer result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/2.1.8.png)
+
+## Analysis
+    - In this test we see that average duration of each test is quiet different for Gzip format however with the increase in numbner of reducer the duration for Text file has increase. It's  the same with Bzip format.
+    - Thus to analyze further, we would consider the Map, Shuffle, Merge and Reduce time of each format for every number of reducer
+
+    Map time: 
