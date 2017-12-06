@@ -1,10 +1,21 @@
 # Week-14 Final Assignment
 
-## Conceptual Understanding of MapReduce
+## Conceptual Understanding of MapReduce with 1 Reducer
 ![MapReduce with 1 Reducer](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/map-1_reducer.png)
 
-    - Above mentioned image tells us 
+    - Above mentioned image is a diagramatic representating of a MapReduce job
+    - When a client requests for a MapReduce job, input data is split into chucks of 128 MB (default) and key-value pairing takes place
+    - Data then is emitted to Reducer phase in the local disk and not Hadoop file system.
+    - Writing output of Mapper phase in Hadoop system, would be time consuming and as well retriving since the data is huge
+    - Emitted data from Mapper needs to be sorted since they were split and then shuffled before processing in Reduce phase
+    - With one reducer all the data is shuffled and sorted to find the output of key value pair
+    - Result is then saved in the Hadoop file system
+    
+## Conceptual Understanding of MapReduce with Multiple Reducers
+![MapReduce with Multiple Reducers](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/map-many_reducers.png)
 
+    
+    
 
 # Test 1: Without combiner and without intermediate compression on 1994
 
