@@ -1,5 +1,11 @@
 # Week-14 Final Assignment
 
+## Conceptual Understanding of MapReduce
+![MapReduce with 1 Reducer](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/map-1_reducer.png)
+
+    - Above mentioned image tells us 
+
+
 # Test 1: Without combiner and without intermediate compression on 1994
 
 
@@ -13,7 +19,7 @@
     - As we see from the above graph that the average duration for entire job is almost the same for all the file formats at particular number of reducers
     - Considering the map, shuffle, merge and reducer time individually we would find the real difference
     
-    Map time: Text would have taken an least time mapping since data could have been split into blocks, Bzip data is split into fewever number of maps compared to text file hence would be higher time compared to text file. However Gzip data cannot be split due to which maximum time would have been taken
+    Map time: Text would have taken an least time mapping since data could have been split into blocks, Bzip data is splitable into fewer number of maps compared to text file hence would be higher time compared to text file. However Gzip data cannot split due to which maximum time would have been taken which is result of the test
     
     Shuffle time: Shuffle depends on number of maps and since the maximum number of maps were for Text format data, maximum time would have been taken. Followed by Bzip data due to less number of maps and then Gzip with 1 map.
     
