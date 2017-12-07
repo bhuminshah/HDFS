@@ -6,15 +6,21 @@
     - Above mentioned image is a diagramatic representating of a MapReduce job
     - When a client requests for a MapReduce job, input data is split into chucks of 128 MB (default) and key-value pairing takes place
     - Data then is emitted to Reducer phase in the local disk and not Hadoop file system.
-    - Writing output of Mapper phase in Hadoop system, would be time consuming and as well retriving since the data is huge
+    - Writing output of Mapper phase in Hadoop system, would be overkilling since this is an intermediatary output, final output would be from Reducer phase
     - Emitted data from Mapper needs to be sorted since they were split and then shuffled before processing in Reduce phase
-    - With one reducer all the data is shuffled and sorted to find the output of key value pair
+    - With one reducer all the data is emitted and a key value pair is been emitted
     - Result is then saved in the Hadoop file system
     
 ## Conceptual Understanding of MapReduce with Multiple Reducers
 ![MapReduce with Multiple Reducers](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/map-many_reducers.png)
 
+    - Data flow is the same with multiple reducers until Map Phase
+    - When multiple reducers are introduced, the shuffle and merge phase are affected
+    - Understanding the shuffle and merge phase
     
+![Shuffle](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/shuffle.png)
+
+    - 
     
 
 # Test 1: Without combiner and without intermediate compression on 1994
