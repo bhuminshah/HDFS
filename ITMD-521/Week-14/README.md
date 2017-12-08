@@ -144,31 +144,36 @@
     - This test, checks for malformed records and displays the count as well checks the maximum temperature
 
 ## Analysis
-    -
+    - This test gives, different results for each reducer and file format
     - Thus to analyze further, we would consider the Map, Shuffle, Merge and Reduce time of each format for every number of reducer
     
 ![Test 5: Individual result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/5.2.png)
     
-    Map time: Here again, Gzip format has the most time during the map phase due to unsplittable file and to compress a single block of large data before processing to Reducer class takes time. Bzip format also takes time to map since the number of maps created are less compared to text file and again compressing them. Text format is the quickest amongst the three due to the ability of many maps and compression ratio
+    Map time: While again, Txt has least time followed by Bzip and then Gzip. Also, due to the compression, single file block times the most time. Which would be the case with Gzip and Bzip.
     
-    Shuffle time: With combiner, the shuffle phase is the most affected. Gzip format having just one block of output from the Mapper class has the least time.
+    Shuffle time: Shuffle is most for Txt since the out of Map is compressed and has many splits, which is followed by Bzip for less splits and then Gzip
     
-    Reduce time:
+    Reduce time: Time should ideally have reduced with increase in number of reducers but doesn't seem the case here
+    
+## Conclusion
+    - Result of the test doesn't seem accurate due to the resources allocated and number of processes killed while they were succeded first
+    - Best result set in this test would have been Gzip
     
 # Test 6: With combiner and without intermediate compression on 90
     
 ![Test 6 result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/6.1.png)
     
-    - In this test we are using file formarts of txt, gzip and bzip and working on with combiner and with intermediate compression
+    - In this test we are using file formarts of txt, gzip and bzip and working on with combiner and without intermediate compression
     - As inferred from the image, y-axis is the duration, x-axis is the file formats and different lines show different reducers
-    - Here, with intermediate compression the output of the Mapper class is compressed before processing it to Reducer class and with combiner minimal amount of data is passed to Reducer from Mapper thus reducing the shuffle time.
+    - Here, with combiner the output of the Mapper class is reduced before processing it to Reducer class and with combiner minimal amount of splits passed to Reducer from Mapper thus reducing the shuffle time.
+    - This test, checks for malformed records and displays the count as well checks the maximum temperature
     
-![Test 6: Individual result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/6.2.png)
-    
-    ## Analysis
-    - In this test we see that average duration of each test is quiet different for Gzip format however with the increase in numbner of reducer the duration for Text file has increase. It's  the same with Bzip format.
+## Analysis
+    - Outputs of the results are displaying 
     - Thus to analyze further, we would consider the Map, Shuffle, Merge and Reduce time of each format for every number of reducer
-    
+
+![Test 6: Individual result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/6.2.png)
+
     Map time: Here again, Gzip format has the most time during the map phase due to unsplittable file and to compress a single block of large data before processing to Reducer class takes time. Bzip format also takes time to map since the number of maps created are less compared to text file and again compressing them. Text format is the quickest amongst the three due to the ability of many maps and compression ratio
     
     Shuffle time: With combiner, the shuffle phase is the most affected. Gzip format having just one block of output from the Mapper class has the least time.
