@@ -406,5 +406,18 @@
 ## Conclusion
     - Except for 8 reducer which seems an outlier, results are accurate
     
-# Test 17 : 
+# Test 17 : Final Result
+
+    - Based on the results of the above tests we have observations based on intermediate compression, compression, combiners, block size, and number of reducers
+    - Considering each individually and then together
+    
+## Understanding and Conclusion
+
+    - We understood that intermediate compression best works when data from the Map phase is large and its best to compress before emitting to Reducer phase
+    - Also, the time in Map phase increases
+    - Compression format is best suited with Bzip due to the ability of splits and as well as compression ratio combined
+    - We can say that for intermediate compression the best result was for Test 14
+    - Where block size was of 512 MB and then compressed on Txt format
+    
+##
 
