@@ -348,48 +348,63 @@
     
 ![Test 13: Individual result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/13.2.png)
     
-    Map time: 
-    Shuffle time: With combiner, the shuffle phase is the most affected. Gzip format having just one block of output from the Mapper class has the least time.
+    Map time: Mapping should take most time due to large block size
     
-    Reduce time:
+    Shuffle time: With combiner, the shuffle phase is the most affected. Since larger block size is been made less blocks needs to be shuffled. Hence time reduces
+    
+    Reduce time: More number of reducers should decrease total duration
+    
+## Conclusion
+    - Considering test with 8 reducer as outlier, best result would have been with 8 Reducers
     
 # Test 14: With combiner and with intermediate compression on 80 - 90 (512 MB block size)
     
 ![Test 14 result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/14.1.png)
     
-    - In this test we are using file formarts of txt, gzip and bzip and working on with combiner and with intermediate compression
+    - In this test we are using file format of txt and working on with combiner and with intermediate compression
     - As inferred from the image, y-axis is the duration, x-axis is the file formats and different lines show different reducers
+    - This test has block size increased to 512 MB
     - Here, with intermediate compression the output of the Mapper class is compressed before processing it to Reducer class and with combiner minimal amount of data is passed to Reducer from Mapper thus reducing the shuffle time.
-    
-![Test 14: Individual result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/14.2.png)
+
     
 ## Analysis
-    - In this test we see that average duration of each test is quiet different for Gzip format however with the increase in numbner of reducer the duration for Text file has increase. It's  the same with Bzip format.
+    - In this test we see that average duration of each test reduces with number of reducers
     - Thus to analyze further, we would consider the Map, Shuffle, Merge and Reduce time of each format for every number of reducer
     
-    Map time: Here again, Gzip format has the most time during the map phase due to unsplittable file and to compress a single block of large data before processing to Reducer class takes time. Bzip format also takes time to map since the number of maps created are less compared to text file and again compressing them. Text format is the quickest amongst the three due to the ability of many maps and compression ratio
+![Test 14: Individual result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/14.2.png)
+
+    Map time: Would be same as previous test
     
-    Shuffle time: With combiner, the shuffle phase is the most affected. Gzip format having just one block of output from the Mapper class has the least time.
+    Shuffle time: With combiner, the shuffle phase is the most affected. Result set would have been reduced since block size is bigger and shuffle is for less number of blocks
     
-    Reduce time:
+    Reduce time: Since combiner has done most of the work, more number of reducer would make the task faster
+    
+## Conclusion
+    - Results received seems accurate and best case is with 8 reducers
     
 # Test 15: With combiner and without intermediate compression on 80 - 90 (512 MB block size)
     
 ![Test 15 result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/15.1.png)
     
-    - In this test we are using file formarts of txt, gzip and bzip and working on with combiner and with intermediate compression
+    - In this test we are using file format of txt and working on with combiner and with intermediate compression
     - As inferred from the image, y-axis is the duration, x-axis is the file formats and different lines show different reducers
-    - Here, with intermediate compression the output of the Mapper class is compressed before processing it to Reducer class and with combiner minimal amount of data is passed to Reducer from Mapper thus reducing the shuffle time.
+    - This test has block size increased to 512 MB
+
+    
+## Analysis
+    - In this test we see that average duration of each test decreases with increase in number of reducer expect for one outlier with 8 reducers
+    - Thus to analyze further, we would consider the Map, Shuffle, Merge and Reduce time of each format for every number of reducer
     
 ![Test 15: Individual result](https://github.com/illinoistech-itm/bshah40/blob/master/ITMD-521/Week-14/images/15.2.png)
     
-    ## Analysis
-    - In this test we see that average duration of each test is quiet different for Gzip format however with the increase in numbner of reducer the duration for Text file has increase. It's  the same with Bzip format.
-    - Thus to analyze further, we would consider the Map, Shuffle, Merge and Reduce time of each format for every number of reducer
+    Map time: Same as above mentioned tests
     
-    Map time: Here again, Gzip format has the most time during the map phase due to unsplittable file and to compress a single block of large data before processing to Reducer class takes time. Bzip format also takes time to map since the number of maps created are less compared to text file and again compressing them. Text format is the quickest amongst the three due to the ability of many maps and compression ratio
+    Shuffle time: With combiner, the shuffle phase is the most affected. Shuffling less number of blocks and no compression used should be less time consuming
     
-    Shuffle time: With combiner, the shuffle phase is the most affected. Gzip format having just one block of output from the Mapper class has the least time.
+    Reduce time: Combiner does the work and reduce phase doesn't require to decompress hence results are better with more reducers
     
-    Reduce time:
+## Conclusion
+    - Except for 8 reducer which seems an outlier, results are accurate
+    
+# Test 17 : 
 
